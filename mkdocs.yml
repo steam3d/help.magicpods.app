@@ -1,0 +1,48 @@
+site_name: MagicPods Help
+nav:
+  - Home: index.md
+  - 'Functions':
+    - Capability: fun-capability.md
+    - General settings: fun-general-settings.md
+    - Audio: fun-audio.md
+
+  - 'Resolving known issues':
+    - Infinite search: issue-infinite-search.md
+    - Tray icon is too dark: issue-theme.md
+    - Connectivity issues: issue-connectivity.md
+    - Bluetooth LE not supported: issue-ble-not-supported.md
+    - Switch audio output not available: issue-switch-audio-not-available.md
+
+  - Translate: translate.md 
+  - Report issue: report-issue.md
+  - Changelog: changelog.md
+
+theme:
+  name: material
+  favicon: media/favicon.svg
+  palette: 
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"        
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode   
+ 
+  font:
+    text: Rubik
+  logo: media/favicon.svg 
+  features:
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - header.autohide
+extra_css:
+- stylesheets/extra.css
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: ⚓︎
