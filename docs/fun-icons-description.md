@@ -1,7 +1,7 @@
 
 ## Tray icons
 !!! note
-    When AirPods (left and right) connected the icon shows the average battery value. Example: Left AirPod has 25% and Right AirPod 45%, the MagicPods will show battery level 35%
+    When AirPods (left and right) connected the icon shows the average battery value. Example: Left AirPod has 25% and Right AirPod 45%, the MagicPods will show battery level 35%.
 
 Icon | Description
 :-: | :-- 
@@ -15,7 +15,7 @@ Icon | Description
 ![](media/trayicons/AnalogBattery0.png) | Analog battery (Charge between 10%-0%)
 ![](media/trayicons/AnalogBatteryCharge.png) | Analog battery (Battery is charging)
 ![](media/trayicons/DigitalBattery.png) | Digital battery (Current charge)
-![](media/trayicons/DigitalBatteryLow.png) | Digital battery (Low battery between 33%-0%)
+![](media/trayicons/DigitalBatteryLow.png) | Digital battery (Charge between 33%-0%)
 ![](media/trayicons/DigitalBatteryCharge.png) | Digital battery (Battery is charging)
 
 !!! tip

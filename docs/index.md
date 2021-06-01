@@ -1,4 +1,4 @@
-The MagicPods introduce the IOS experience of AirPods to Windows.
+[The MagicPods](https://magicpods.app/) introduce the IOS experience of AirPods to Windows.
 
 
 ## Features

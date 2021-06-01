@@ -1,6 +1,6 @@
 # Capability
 
-Below is a list of compatibility of headphones with MagicPods
+Below is a list of compatibility of headphones with MagicPods:
 
 Headphones | Popup animation | Battery | Ear Detection | Connect | Auto connect | VoiceOver notification
 --- | :-: | :-: | :-: | :-: | :-: | :-:

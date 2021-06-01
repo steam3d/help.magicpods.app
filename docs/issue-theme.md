@@ -1,6 +1,6 @@
 # Tray icon is too dark
 
-Usually when you never change Windows theme, the system does not have the state of the current theme. You need to update state manually
+Usually when you never change Windows theme, the system does not have the state of the current theme. You need to update state manually.
 
 ### Solution
 

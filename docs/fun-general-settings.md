@@ -3,11 +3,11 @@
 ## Ear detection
 
 ### Available media players
-MagicPods supports all players with system media control
+MagicPods supports all players with system media control:
 
 ![](media/SystemMediaControl.png)
 
-The following players are additionally supported
+The following players are additionally supported:
 
 * VLC
 * QQMusic
@@ -15,7 +15,7 @@ The following players are additionally supported
 * KuGou
 
 !!! note
-    Sometimes KuGou media player doesn't react on Play / Pause command. Restart KuGou it can fix this.
+    Sometimes KuGou media player doesn't react on Play / Pause command. Restart KuGou can fix this.
 
 
 ## Popup animation

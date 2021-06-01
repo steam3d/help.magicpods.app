@@ -23,7 +23,7 @@ VoiceOver required access to notification to get notification's text to VoiceOve
 5. `Close the MagicPods` window and `open` it again to update voices data
 
 !!! info
-    If AirPods are already connected, disconnect and connect AirPods or restart the MagicPods to apply selected voice
+    If AirPods are already connected, disconnect and connect AirPods or restart the MagicPods to apply selected voice.
 
 ### Add an app to list notification apps
 

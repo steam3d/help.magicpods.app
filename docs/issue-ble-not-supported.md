@@ -8,14 +8,14 @@ There are 3 reasons for this error:
 
 ## Unplugged Bluetooth Dongle
 
-Plug Bluetooth dongle and restart the MagicPods
+Plug Bluetooth dongle and restart the MagicPods.
 
 !!! warning
     The MagicPods doesn't have yet auto detect bluetooth module.
 
 ## Bluetooth Dongle has Bluetooth version below 4.0
 
-Any AirPods required Bluetooth 4.0 and above. Check your bluetooth version if it is lower, then the only way is to change Bluetooth module
+Any AirPods required Bluetooth 4.0 and above. Check your bluetooth version if it is lower, then the only way is to change Bluetooth module.
 
 ## The windows doesn't allow access to Bluetooth
 
