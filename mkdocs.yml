@@ -47,3 +47,5 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: ⚓︎
+site_url:
+  https://help.magicpods.app/
