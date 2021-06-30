@@ -13,6 +13,7 @@ The following players are additionally supported:
 * QQMusic
 * CloudMusic
 * KuGou
+* iTunes (Microsoft Store)
 
 !!! note
     Sometimes KuGou media player doesn't react on Play / Pause command. Restart KuGou can fix this.
