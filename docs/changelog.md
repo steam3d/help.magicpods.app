@@ -1,3 +1,10 @@
+## 1.0.72.0 (30-06-2021)
+
+- Added support Play / Pause for iTunes (Microsoft store)
+- Added the ability connect the AirPods from tray menu
+- Fixes bug when connecting AirPods with some disabled services caused the app to crash.
+- Updated translations (Thx our community)
+
 ## 1.0.71.0 (22-05-2021)
 
 Say hello to your AirPods Max 👋
