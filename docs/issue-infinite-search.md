@@ -7,12 +7,20 @@ It looks like:
 
 For unknown reason Windows do not allow working with bluetooth and reboot doesn't help.
 
-### Solution
+### Solution 1
 
 1. Close the MagicPods
 2. Open `Task Manager` and terminate `MagicPodsService.exe` and `MagicPodsUI.exe` if they still work
 3. Uninstall the MagicPods
 4. `Important!` Reboot your PC
 5. Install MagicPods
+
+### Solution 2
+
+1. Close the MagicPods
+2. Update a Bluetooth driver to the latest version from manufacturer site
+3. Open the MagicPods and try to connect AirPods
+
+If steps from above did not help, try to install the older Bluetooth driver instead the latest one.
 
 Usefully steeps above must help. 

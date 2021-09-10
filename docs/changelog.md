@@ -1,3 +1,12 @@
+## 1.0.74.0 (17-07-2021)
+Fixed hide popup window when click outside. (Not works on some pc)
+
+## 1.0.73.0 (17-07-2021)
+
+The popup will now hide when you click outside of it.
+- Added Romanian, Japanese and Polish languages
+- Updated some languages
+
 ## 1.0.72.0 (30-06-2021)
 
 - Added support Play / Pause for iTunes (Microsoft store)

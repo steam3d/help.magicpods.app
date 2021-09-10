@@ -13,6 +13,7 @@ nav:
     - Connectivity issues: issue-connectivity.md
     - Bluetooth LE not supported: issue-ble-not-supported.md
     - Switch audio output not available: issue-switch-audio-not-available.md
+    - Сrashes at start: issue-crashes-at-start.md
 
   - Translate: translate.md 
   - Report issue: report-issue.md
