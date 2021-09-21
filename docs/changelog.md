@@ -1,14 +1,17 @@
 ## 1.0.75.0 (16-09-2021)
 New:
+
 - Smoothly decrease and increase the volume when the earbud is removed from your ear
 - Now, after disconnect the AirPods, the audio players will be paused if they were playing sound
 - Auto switch audio output no longer requires additional components to install
 
 New languages:
+
 - Vietnamese
 - Updated other languages
 
 Fixed:
+
 - An error that caused the application to crash when the user turned off the Bluetooth
 - An error that caused the application to crash when VoiceOver read notification
 - An error where animation played incorrectly on monitors with high refresh rate
