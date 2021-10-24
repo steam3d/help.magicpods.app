@@ -1,3 +1,14 @@
+## 1.0.78.0 (16-09-2021)
+⚠️ Warning MagicPods has changed the architecture of the application to better support Windows 11. If you have problems, please reinstall the application.
+
+Meet Windows 11 support
+- Updated user interface
+- Updated logo
+- Added tooltips
+
+Fixed:
+- An error that caused the application to crash when the user connects AirPods
+
 ## 1.0.75.0 (16-09-2021)
 New:
 

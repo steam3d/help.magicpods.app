@@ -1,11 +1,14 @@
 # Infinite search
 
 Sometimes when connecting AirPods, MagicPods may try to connect (or search for) headphones in endlessly. Even if the headphones are connected successfully and you are listening to music through them.
-It looks like:
 
-![](media/InfiniteSearch.gif)
+!!! tip
+    Ignore this warn notification if MagicPods is working normally or [report](report-issue.md) accidental notification.
+
+![](media/InfiniteSearch.png)
 
 For unknown reason Windows do not allow working with bluetooth and reboot doesn't help.
+
 
 ### Solution 1
 
