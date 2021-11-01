@@ -9,6 +9,8 @@ nav:
 
   - 'Resolving known issues':
     - Infinite search: issue-infinite-search.md
+    - Infinite disconnect: issue-infinite-disconnect.md
+    - AirPods status not updating: issue-airpods-status-not-updating
     - Tray icon is too dark: issue-theme.md
     - Connectivity issues: issue-connectivity.md
     - Bluetooth LE not supported: issue-ble-not-supported.md
