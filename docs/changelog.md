@@ -1,15 +1,26 @@
+## 1.0.78.0 (01-11-2021)
+
+Say hello to your 🎧 AirPods 3 
+
+- Updated languages
+- Add supports AirPods 3
+
 ## 1.0.78.0 (16-09-2021)
+
 ⚠️ Warning MagicPods has changed the architecture of the application to better support Windows 11. If you have problems, please reinstall the application.
 
 Meet Windows 11 support
+
 - Updated user interface
 - Updated logo
 - Added tooltips
 
 Fixed:
+
 - An error that caused the application to crash when the user connects AirPods
 
 ## 1.0.75.0 (16-09-2021)
+
 New:
 
 - Smoothly decrease and increase the volume when the earbud is removed from your ear
@@ -30,11 +41,13 @@ Fixed:
 - An error in which the animation in the "Status" window blinked when fast search was enabled
 
 ## 1.0.74.0 (19-07-2021)
+
 Fixed hide popup window when click outside. (Not works on some pc)
 
 ## 1.0.73.0 (17-07-2021)
 
 The popup will now hide when you click outside of it.
+
 - Added Romanian, Japanese and Polish languages
 - Updated some languages
 
@@ -50,6 +63,7 @@ The popup will now hide when you click outside of it.
 Say hello to your AirPods Max 👋
 
 New:
+
 - Add supports AirPods Max
 - Improved response from opening and closing AirPods case
 - Updated translations in many languages
@@ -103,6 +117,7 @@ This update will optimize the application.
 ## 1.0.58.0 (11-01-2021)
 
 The large update brings some new features:
+
 - Auto switch audio output
 - Animation position on screen
 - New search status animation and icon for it
@@ -111,8 +126,10 @@ The large update brings some new features:
 - Connect button color now uses windows accent color
 
 Added languages:
+
 - Dutch
 - German
+
 Note. Translation in some languages is incomplete.
 
 ## 1.0.55.0 (23-11-2020)
@@ -132,12 +149,14 @@ Note. Translation in some languages is incomplete.
 Introducing a new interface with Microsoft Fluent Design.
 
 New features:
+
 - You can now connect to your AirPods through pop-up window or automatically.
 - Supports all media players with system media control (detailed information in the app).
 - In addition, VLC, QQMusic, CloudMusic, KuGou are also supported.
 - Auto play command when you connect to your AirPods.
 
 Bug fixes:
+
 - Sometimes other Apple device can crash the app.
 
 

@@ -6,6 +6,7 @@ Headphones | Popup animation | Battery | Ear Detection | Connect | Auto connect 
 --- | :-: | :-: | :-: | :-: | :-: | :-:
 AirPods 1      | 👍 | 👍 | 👍 | 👍 | 👍 | 👍 
 AirPods 2      | 👍 | 👍 | 👍 | 👍 | 👍 | 👍 
+AirPods 3      | 👍 | 👍 | 👍 | 👍 | 👍 | 👍 
 AirPods Pro    | 👍 | 👍 | 👍 | 👍 | 👍 | 👍 
 AirPods Max    | 👍 | 👍 | 👍 | 👍 | ❌ | 👍 
 PowerBeats Pro | 👍 | 👍 | 👍 | 👍 | 👍 | 👍 

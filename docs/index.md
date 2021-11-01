@@ -10,7 +10,7 @@
 - Windows 10 features support (Live tile, themes, notification and etc)
 
 ## AirPods Supported
-- AirPods Gen 1, 2
+- AirPods Gen 1, 2, 3
 - AirPods Pro
 - AirPods Max
 - PowerBeats Pro
