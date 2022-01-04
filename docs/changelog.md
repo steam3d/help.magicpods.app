@@ -1,3 +1,31 @@
+## 1.0.80.0 (04-01-2022)
+Introducing Mica - new Windows 11 material. For Windows 11 users the MagicPods will use Mica material instead of acrylic material.
+
+What's new?
+
+- The appearance has been updated, now it is more in line with Windows 11 style
+- Manual switching of light and dark themes. Separately for the popup window and for the application itself.
+- Multiple display support. The pop-up window will no longer flash, appear in the wrong position or outside the monitor when connecting external monitors. The tray icon will always be clear, even if you change the scaling in the system
+- Improve popup performance and animation
+- Switch language
+
+Fixed:
+
+- Flashing text when you open the MagicPods for the first time.
+- Animation played too fast after hibernation
+
+Add new languages:
+
+- Danish
+- Greek
+- Serbian (Latin)
+- Sinhala
+
+Updated all language translations. Thanks to our community for the work done.
+
+Do not forget to report problems in the support section.
+If you have problems after update, try reinstalling the application and reboot PC.
+
 ## 1.0.78.0 (01-11-2021)
 
 Say hello to your 🎧 AirPods 3 
