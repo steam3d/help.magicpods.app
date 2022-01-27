@@ -1,3 +1,22 @@
+## 1.0.81.0 (27-01-2022)
+
+Added new headphones supports:
+
+- Beats Fit Pro
+- Beats Solo 3 (only battery)
+- Beats Solo Pro (only battery)
+- Beats Studio 3 (only battery)
+- Beats X (only battery)
+- Beats Flex (only battery)
+- Power Beats 3 (only battery)
+
+Fixed:
+
+- AirPods Max ear detection 
+- VoiceOver read text multiple times when user lock and unlock the screen
+
+Updated translations.
+
 ## 1.0.80.0 (04-01-2022)
 Introducing Mica - new Windows 11 material. For Windows 11 users the MagicPods will use Mica material instead of acrylic material.
 
@@ -26,7 +45,7 @@ Updated all language translations. Thanks to our community for the work done.
 Do not forget to report problems in the support section.
 If you have problems after update, try reinstalling the application and reboot PC.
 
-## 1.0.78.0 (01-11-2021)
+## 1.0.79.0 (01-11-2021)
 
 Say hello to your 🎧 AirPods 3 
 
