@@ -13,7 +13,7 @@ Just restart the MagicPods.
 
 3. Past this command into console and press enter:
 
-    `taskkill /f /im MagicPodsService.exe && taskkill /f /im MagicPodsUI.exe`
+    `taskkill /f /im MagicPodsService.exe & taskkill /f /im MagicPodsUI.exe`
     
     ![](media/TerminatedApp.jpg)
 
