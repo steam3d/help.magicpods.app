@@ -1,3 +1,11 @@
+## 1.0.83.0 (27-01-2022)
+
+Added a new way to connect AirPods. It made connecting AirPods faster and added an AirPods disconnect feature.
+The design of the pop-up menu by clicking on the icon in the notification area has been completely redesigned. It now matches the look and feel of Windows 10 and 11.
+
+Fixed:
+- Disabled Bluetooth audio services are no longer enabled after AirPods are connected.
+
 ## 1.0.81.0 (27-01-2022)
 
 Added new headphones supports:
