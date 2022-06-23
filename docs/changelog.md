@@ -1,3 +1,7 @@
+## 1.0.84.0 (15-05-2022)
+
+- Updated translations
+
 ## 1.0.83.0 (19-03-2022)
 
 Added a new way to connect AirPods. It made connecting AirPods faster and added an AirPods disconnect feature.
