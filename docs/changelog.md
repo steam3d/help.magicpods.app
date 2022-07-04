@@ -1,3 +1,42 @@
+## 2.0.2.0 (04-07-2022)
+
+- Fixed issue when you open the app it crashes
+- Updated translations
+
+## 2.0.1.0 (01-07-2022)
+
+- Fixed Auto-Pause issue
+- Updated translations
+
+## 2.0.0.0 (30-06-2022)
+
+Meet MagicPods✨ 2.0
+
+Completely redesigned look and feel to match the new Windows 11 look and feel. The interface logic has been rethought, making it more intuitive and especially convenient for users with multiple headphones.
+
+Added new settings:
+
+- Hotkey to connect and disconnect headphones
+- Headphone low battery notification
+- Auto-pause when headphones disconnected, or the screen is locked
+
+UI updated:
+
+- Added a card for each headphone, which contains all the available settings
+- Added new animated battery icon
+- Added tips how to pair headphones with a computer, Bluetooth is turned off, etc.
+- Redrawn welcome animations
+- Icons in the menu have been redrawn, now they are more detailed
+
+Fixed:
+
+- Bug where the option «Show AirPods charge on icon» was disabled, and when hovering over the icon in the tray, the battery charge was not displayed
+- Bug when after turning off and on Bluetooth, pressing the connect button did not work
+- Notification when Bluetooth module is not supported.
+- Some texts could not be translated into another language
+- Reduced memory consumption
+- Significantly reduced the size of the application
+
 ## 1.0.84.0 (15-05-2022)
 
 - Updated translations
