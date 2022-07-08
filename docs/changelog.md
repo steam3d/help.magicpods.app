@@ -1,3 +1,9 @@
+## 2.0.3.0 (09-07-2022)
+
+- Added Beats Studio Buds support
+- Fixed ToggleSwitch in headphones settings
+- Updated translations for some languages
+
 ## 2.0.2.0 (04-07-2022)
 
 - Fixed issue when you open the app it crashes

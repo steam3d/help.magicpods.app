@@ -11,6 +11,7 @@ AirPods Pro       | 👍 | 👍 | 👍 | 👍 | 👍 | 👍
 AirPods Max       | 👍 | 👍 | 👍 | 👍 | ❌ | 👍 
 PowerBeats Pro    | 👍 | 👍 | 👍 | 👍 | 👍 | 👍 
 Beats Fit Pro     | 👍 | 👍 | 👍 | 👍 | 👍 | 👍 
+Beats Studio Buds |  👍 | 👍 | ❌ | 👍 | ❌ | 👍 
 ⚠️ Beats Solo 3   | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
 ⚠️ Beats Solo Pro | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
 ⚠️ Beats Studio 3 | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
