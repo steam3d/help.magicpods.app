@@ -1,3 +1,22 @@
+## 2.0.4.0 (05-08-2022)
+
+A small change under the hood, maybe some users will have a more stable connection with the headphones.
+
+Fixed:
+
+- Accent color was wrong when the user chooses the Light theme in app when the Windows theme was dark
+- Fixed problem with exiting the app
+
+Updated:
+
+- Changed connection button style
+
+Added languages:
+
+- Czech (Czech Republic)
+- Indonesian (Indonesia)
+- Thai (Thailand)
+
 ## 2.0.3.0 (09-07-2022)
 
 - Added Beats Studio Buds support
