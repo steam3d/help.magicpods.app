@@ -1,3 +1,9 @@
+## 2.0.5.0 (27-09-2022)
+
+- Added experimental support 🎧AirPods Pro 2.
+- Added and updated languages
+- Fixed issue when «Low audio latency» toggle does not work
+
 ## 2.0.4.0 (05-08-2022)
 
 A small change under the hood, maybe some users will have a more stable connection with the headphones.

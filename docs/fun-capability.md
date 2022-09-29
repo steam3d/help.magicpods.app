@@ -8,16 +8,17 @@ AirPods 1         | 👍 | 👍 | 👍 | 👍 | 👍 | 👍
 AirPods 2         | 👍 | 👍 | 👍 | 👍 | 👍 | 👍 
 AirPods 3         | 👍 | 👍 | 👍 | 👍 | 👍 | 👍 
 AirPods Pro       | 👍 | 👍 | 👍 | 👍 | 👍 | 👍 
+⚠️ AirPods Pro 2  | ⚠️ | 👍 | ⚠️ | ⚠️ | ⚠️ | 👍 
 AirPods Max       | 👍 | 👍 | 👍 | 👍 | ❌ | 👍 
 PowerBeats Pro    | 👍 | 👍 | 👍 | 👍 | 👍 | 👍 
 Beats Fit Pro     | 👍 | 👍 | 👍 | 👍 | 👍 | 👍 
 Beats Studio Buds |  👍 | 👍 | ❌ | 👍 | ❌ | 👍 
-⚠️ Beats Solo 3   | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
-⚠️ Beats Solo Pro | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
-⚠️ Beats Studio 3 | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
-⚠️ Beats X        | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
-⚠️ Beats Flex     | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
-⚠️ Power Beats 3  | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
+Beats Solo 3   | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
+Beats Solo Pro | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
+Beats Studio 3 | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
+Beats X        | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
+Beats Flex     | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
+Power Beats 3  | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
 
 !!! warning
     Some headphones are experimentally supported. Leave feedback to [MagicPods@outlook.com](mailto:MagicPods@outlook.com) on how these headphones work with the MagicPods.
