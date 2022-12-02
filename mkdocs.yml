@@ -1,8 +1,18 @@
 site_name: MagicPods Help
 nav:
   - Home: index.md
+  - 'Bluetooth':
+    - Requirements: 'bt-requirements.md'
+    - Adapter not found: "bt-adapter-not-found.md"
+    - Multiple adapters connected: "bt-multiple-adapters-connected.md"
+    - Adapter initialization error: "bt-adapter-initialization-error.md"
+    - Classic not supported: "bt-classic-not-supported.md"
+    - LE not supported: "bt-le-not-supported.md"
   - 'Functions':
     - Capability: fun-capability.md
+    - 'Headphones':
+      - Change image: headphones-change-image.md
+      - Ear Detection: headphones-ear-detection.md
     - General settings: fun-general-settings.md
     - Audio: fun-audio.md
     - Icons description: fun-icons-description.md
@@ -43,7 +53,7 @@ theme:
   features:
     - navigation.expand
     - navigation.top
-    - toc.integrate
+
     - header.autohide
 extra_css:
   - stylesheets/extra.css

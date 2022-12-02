@@ -1,3 +1,29 @@
+## 2.0.32.0 (29-11-2022)
+
+The entire logic of the application has been completely rewritten, which made it possible to add the ability to connect and disconnect any Bluetooth headphones.
+
+Added:
+
+-   Support for some functions for any Bluetooth headphones
+-   Change headphone image
+-   Dynamic watching of available Bluetooth headphones in the system
+-   Dynamic watching of available Bluetooth adapters in the system
+-   Enable Bluetooth from the main application window
+-   Updated tooltips for problems with Bluetooth adapters
+-   Updated tray icons
+-   Updated headphone icons in the context menu
+-   «Ear detection» supports multiple connected headphones. (Detailed in help.magicpods.app)
+
+Changed:
+
+- Disabled some non-working AirPods Pro 2 features (detailed at help.magicpods.app/fun-capability)
+
+Updated:
+
+- Translations for most languages.
+
+The update is very complex and tested on Windows 10 18362, Windows 10 17763, and Windows 11.
+
 ## 2.0.5.0 (27-09-2022)
 
 - Added experimental support 🎧AirPods Pro 2.

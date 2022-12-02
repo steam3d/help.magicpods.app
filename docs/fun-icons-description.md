@@ -5,10 +5,14 @@
 
 Icon | Description
 :-: | :-- 
-![](media/trayicons/Default.png) | AirPods disconnected
-![](media/trayicons/Connecting.png) | Windows is connecting to AirPods 
+![](media/trayicons/BluetoothOff.png) | Bluetooth off
+![](media/trayicons/Default.png) | Headphones are disconnected or connected headphones do not support showing battery
+![](media/trayicons/Connecting.png) | Windows is connecting / disconnecting to headphones 
 ![](media/trayicons/Searching.png) | MagicPods is searching AirPods
-![](media/trayicons/Error.png) | An error has occurred (Hover the icon to get details).
+![](media/trayicons/BtAdapterNotFound.png) | Bluetooth adapter not found
+![](media/trayicons/Warning.png) | Warning message (Hover the icon to get details or open MagicPods).
+![](media/trayicons/Error.png) | Error message (Hover the icon to get details or open MagicPods).
+![](media/trayicons/UnexpectedError.png) | An unexpected error has occurred (Hover the icon to get details).
 ![](media/trayicons/AnalogBattery100.png) | Analog battery (Charge between 100%-66%)
 ![](media/trayicons/AnalogBattery66.png) | Analog battery (Charge between 66%-33%)
 ![](media/trayicons/AnalogBattery10.png) | Analog battery (Charge between 33%-10%)
