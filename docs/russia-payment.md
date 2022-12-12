@@ -1,9 +1,47 @@
-### Купить MagicPods в России
+# Купить MagicPods в России
 !!! warning
     Письма чаще стали попадать в спам. Пожалуйста проверяйте так же папку спам.
     
-Перед покупкой рекомендую попробовать пробную версию [MagicPods](https://www.microsoft.com/store/apps/9P6SKKFKSHKM). После оплаты укажите свой email на который отправить код активации.Я обрабатываю заявки вручную, обычно в течение 1 дня.
+## Перед покупкой
 
-<iframe src="https://yoomoney.ru/quickpay/shop-widget?writer=seller&targets=MagicPods%20%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%201%20%D0%B0%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%D0%B0%20(%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)&targets-hint=&default-sum=150&button-text=11&payment-type-choice=on&mobile-payment-type-choice=on&mail=on&hint=&successURL=help.magicpods.app%2Frussia-payment-success&quickpay=shop&account=4100117745637885&" width="422" height="251" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+Попробуйте пробную версию [MagicPods](https://www.microsoft.com/store/apps/9P6SKKFKSHKM), даже по окончанию пробной версии можно будет скачать приложение после оплаты.
+Заявки обрабатываются вручную, коды активации рассылаются 1 раз в сутки по рабочим дням.
+
+## Yoomoney
+
+<iframe src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=6koIkwImaEI.221212&" width="330" height="50" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+
+1. Сделайте перевод по кнопке
+2. Отправьте скриншот об оплате на [MagicPods@outlook.com](mailto:MagicPods@outlook.com). В теме письма укажите `Оплата Yoomoney` (чтобы письмо случайно не попало в спам)
+3. Код активации придет в ответном письме
+
+## Криптовалюта TON (Toncoin)
+
+<img src="/media/ton.png" Width="224">
+
+```
+EQDU3Pagbzs0VTiF47QKnCGDZtWHsk0jOSPKYR6jSJtnkcpN
+```
+
+1. Переведите <img src="/media/ton_symbol_stroke.svg" Width="12"> **1**
+2. Отправьте номер транзакции на [MagicPods@outlook.com](mailto:MagicPods@outlook.com). В теме письма укажите `Оплата TON` (чтобы письмо случайно не попало в спам)
+3. Код активации придет в ответном письме
+
+
+
+## Как использовать код активации
+
+Приложение MagicPods доступно для скачивания только через Microsoft Store. На указанную почту придет код и ссылка для активации продукта. Применить код активации можно на один любой Microsoft аккаунт.
+
+### Активация используя код
+1. Откройте приложение Microsoft Store
+2. Нажми на аватар вашего аккаунта (в верхнем правом углу)
+3. Выберите пункт `Активировать код или подарочные карты`
+4. Введите код
+
+### Активация используя ссылку
+1. Перейдите по ссылке с кодом активации
+2. Зайди в свой Microsoft аккаунт (Если вы не вошли)
+3. Следуйте инструкциям на сайте
 
 По любым вопросам пишите на почту    [MagicPods@outlook.com](mailto:MagicPods@outlook.com).
