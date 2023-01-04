@@ -1,3 +1,19 @@
+## 2.0.38.0 (27-11-2022)
+
+For some users, the headphone list was empty.
+
+Fixed:
+
+- VoiceOver was causing the headphones detection to crash when Windows does not have any installed voice
+- Update live tile was causing the application to crash when Windows has trouble with notification service
+- Accessing an audio device could cause the app to crash
+
+Updated:
+
+- Translations for most languages.
+
+The update is very complex and tested on Windows 10 18362, Windows 10 17763, and Windows 11.
+
 ## 2.0.32.0 (29-11-2022)
 
 The entire logic of the application has been completely rewritten, which made it possible to add the ability to connect and disconnect any Bluetooth headphones.
