@@ -14,7 +14,8 @@ nav:
       - Change image: headphones-change-image.md
       - Ear Detection: headphones-ear-detection.md
     - 'General settings':
-      - Audio Streaming: fun-audio-streaming.md
+      - Sound output: fun-sound-output.md
+      - Audio streaming: fun-audio-streaming.md
 
     - General settings: fun-general-settings.md
     - Audio: fun-audio.md

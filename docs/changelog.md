@@ -1,3 +1,20 @@
+## 2.0.39.0 (04-01-2023)
+
+🎉 Meet 2023 with new update and new features. 
+Introduce «Audio streaming» feature. Stream audio from your Bluetooth devices to your PC. The PC acts as a Bluetooth speaker. (Required Windows 10 19041)
+
+New:
+
+- Audio streaming feature
+- Popup window when sound out changed
+
+Updated:
+
+- Changed logic of fast search. Now ear detection works much faster
+- Headphone names in context menu sorted by its name now
+
+The update is very complex and tested on Windows 10 18362, Windows 10 17763, and Windows 11.
+
 ## 2.0.38.0 (27-11-2022)
 
 For some users, the headphone list was empty.
