@@ -9,11 +9,11 @@ Show pop-up window when sound output changed.
 
 Customize the size of pop-up window.
 
-- Small
-- Medium
-- Large
-
-![](media/sound-output-size.png)
+View | Setting
+:-- | :-- 
+![](media/SoundOutput-Size-Small.png) | Small
+![](media/SoundOutput-Size-Middle.png) | Medium
+![](media/SoundOutput-Size-Large.png) | Large
 
 ## Windows position
 
@@ -28,10 +28,11 @@ Customize from which side of the screen pop-up window will appear.
 - Bottom right corner 
 
 ## Windows Theme
+
 Customize theme of pop-up window.
 
-- Light
-- Dark
-- Use system theme
-
-![](media/sound-output-theme.png)
+View | Setting
+:-- | :-- 
+![](media/SoundOutput-Theme-Light.png) | Light
+![](media/SoundOutput-Theme-Dark.png) | Dark
+![](media/SoundOutput-Theme-Auto.png) | Use system theme
