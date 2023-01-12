@@ -19,13 +19,15 @@ View | Setting
 
 Customize from which side of the screen pop-up window will appear.
 
-- Top left corner 
-- Top right corner 
-- Center top 
-- Center 
-- Center bottom 
-- Bottom left corner 
-- Bottom right corner 
+View | Setting
+:-- | :-- 
+![](media/SoundOutput-Position-Top-Left.png) | Top left corner
+![](media/SoundOutput-Position-Top-Right.png) | Top right corner
+![](media/SoundOutput-Position-Top-Center.png) | Center top
+![](media/SoundOutput-Position-Center.png) | Center
+![](media/SoundOutput-Position-Bottom-Center.png) | Center bottom
+![](media/SoundOutput-Position-Bottom-Left.png) | Bottom left corner
+![](media/SoundOutput-Position-Bottom-Right.png) | Bottom right corner
 
 ## Windows Theme
 
