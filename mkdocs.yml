@@ -13,11 +13,13 @@ nav:
     - 'Headphones':
       - Change image: headphones-change-image.md
       - Ear Detection: headphones-ear-detection.md
+      - Show battery percentage: headphones-show-battery-percentage.md
+      - Low battery notification: headphones-low-battery-notification.md   
     - 'General settings':
+      - Popup window: fun-popup-animation.md
       - Sound output: fun-sound-output.md
       - Audio streaming: fun-audio-streaming.md
 
-    - General settings: fun-general-settings.md
     - Audio: fun-audio.md
     - Icons description: fun-icons-description.md
     - Pair headphones: help-pairing-headphones.md
