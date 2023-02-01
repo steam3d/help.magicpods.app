@@ -22,7 +22,7 @@ Beats Studio 3 | ❌ | 👍 | ❌ | 👍 | ❌ | 👍
 Beats X        | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
 Beats Flex     | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
 Power Beats 3  | ❌ | 👍 | ❌ | 👍 | ❌ | 👍 
-Other headphones  | ❌ | ❌ | ❌ | 👍 | ❌ | 👍 
+Other headphones  | ❌ | ⚠️👍 | ❌ | 👍 | ❌ | 👍 
 
 Most headphones can be added, but without your help it is not possible to do. 
 Please follow this guide [Help with supports new headphones](https://github.com/steam3d/MagicPods-Windows/issues/21) to provide extra information about headphones.

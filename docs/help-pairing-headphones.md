@@ -17,7 +17,7 @@
 4. In the list of devices, select your AirPods, then click Connect.
 
 
-## Pair AirPods Max with Mac with Windows
+## Pair AirPods Max with Windows
 
 1. Open the case with your AirPods inside, then hold it next to your Windows computer.
 2. On AirPods Max, press and hold the noise control button for about five seconds, or until the status light flashes white.

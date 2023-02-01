@@ -19,8 +19,7 @@ nav:
       - Popup window: fun-popup-animation.md
       - Sound output: fun-sound-output.md
       - Audio streaming: fun-audio-streaming.md
-
-    - Audio: fun-audio.md
+      - VoiceOver: fun-audio.md
     - Icons description: fun-icons-description.md
     - Pair headphones: help-pairing-headphones.md
 
