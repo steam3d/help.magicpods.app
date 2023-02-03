@@ -1,3 +1,26 @@
+
+## 2.0.41.0 (03-02-2023)
+
+The new experimental feature allows to get battery level for many headphones.
+
+Changed:
+
+- Added to the context tray menu, a scrollbar.
+- Changed text render on tray icon
+- Small UI changes
+
+Fixed:
+
+- Sometimes disconnect headphones were failing
+
+Updated:
+
+- Translations for most languages.
+
+Added:
+
+- Bulgarian language
+
 ## 2.0.39.0 (04-01-2023)
 
 🎉 Meet 2023 with new update and new features. 
