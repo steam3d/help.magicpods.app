@@ -1,6 +1,7 @@
 ## 2.0.45.0 (13-03-2023)
 
 Updated:
+
 - Translations for most languages.
 
 ## 2.0.41.0 (03-02-2023)
