@@ -1,3 +1,40 @@
+## 2.0.50.0 (23-04-2023)
+
+Redesigned settings UI.
+
+Added:
+
+- Media players support: AIMP, Winamp, KMPlayer, PotPlayer, MPV
+- Option to change speaker image
+- Hotkey to switch sound output
+- Connected headphones indicator on tray icon
+- Additional pop-up window animations
+
+Fixed:
+
+- Sometimes the tray icon shows wrong status
+- Sometimes pressing hotkey “Connect headphones” caused the application to freeze
+- Fixed issue when the app crashed when the headphones were low
+- Fixed issue when custom headphones images did not delete after reset settings
+- Fixed issue when the recommended settings tooltip might not appear
+
+Added languages:
+
+- Hindi (India)
+- Malay (Malaysia)
+- Portuguese (Portugal)
+- Slovak (Slovakia)
+
+## 2.0.49.0 (26-03-2023)
+
+Added support PowerBeats 4 (battery only)
+
+Fixed:
+
+- AirPods Max ear detection did not work for some users
+- Possible fixed compatibility with ARM devices
+- Hang when press hotkey
+
 ## 2.0.45.0 (13-03-2023)
 
 Updated:

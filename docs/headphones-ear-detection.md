@@ -29,6 +29,11 @@ The following players are additionally supported:
 * CloudMusic
 * KuGou
 * iTunes (Microsoft Store)
+* AIMP
+* Winamp
+* KMPlayer
+* PotPlayer
+* MPV
 
 !!! note
     Sometimes KuGou media player doesn't react on Play / Pause command. Restart KuGou can fix this.
