@@ -1,3 +1,10 @@
+## 2.0.51.0 (26-05-2023)
+
+Added red Beats Studio Buds
+
+- Pop-ups are no longer displayed in the Alt-tab menu
+- Updated translations
+
 ## 2.0.50.0 (23-04-2023)
 
 Redesigned settings UI.
