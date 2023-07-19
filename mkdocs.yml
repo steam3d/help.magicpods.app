@@ -23,6 +23,9 @@ nav:
     - Icons description: fun-icons-description.md
     - Pair headphones: help-pairing-headphones.md
 
+  - 'Headphones':
+    - Fake headphones warning: info-fake-headphones.md
+
   - 'Resolving known issues':
     - Infinite search: issue-infinite-search.md
     - Infinite disconnect: issue-infinite-disconnect.md
