@@ -1,3 +1,17 @@
+## 2.0.52.0 (19-07-2023)
+
+Added support for all features of Fake AirPods Pro Airoha 1562AE.
+
+Added:
+
+- Detection of some fake AirPods. Such headphones will be tagged accordingly.
+
+Fixed:
+
+- For some users, the tray icon did not change when turning off Bluetooth.
+
+Updated and added new languages
+
 ## 2.0.51.0 (26-05-2023)
 
 Added red Beats Studio Buds
