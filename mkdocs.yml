@@ -14,7 +14,8 @@ nav:
       - Change image: headphones-change-image.md
       - Ear Detection: headphones-ear-detection.md
       - Show battery percentage: headphones-show-battery-percentage.md
-      - Low battery notification: headphones-low-battery-notification.md   
+      - Low battery notification: headphones-low-battery-notification.md 
+      - Auto disable Handsfree: headphones-auto-disable-hfp.md  
     - 'General settings':
       - Popup window: fun-popup-animation.md
       - Sound output: fun-sound-output.md
