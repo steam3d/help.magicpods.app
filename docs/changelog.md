@@ -1,3 +1,20 @@
+## 2.0.53.0 (11-08-2023)
+
+Added support for all features of Fake AirPods Pro 2 Airoha 1562AE and AirPods 3 1562E. Significantly reduced CPU consumption in the background. 
+
+Fixed:
+- The app could crash when trying to open settings for some Fake AirPods models
+
+Added:
+- Automatic disabling of Handsfree
+- EQ option for Fake AirPods
+- AirPods 3 tray icon
+- Option to disable pop-up window for Fake AirPods
+- Redesigned auto play and auto pause functions
+- Native disconnect headphones
+
+Updated translation for different languages.
+
 ## 2.0.52.0 (19-07-2023)
 
 Added support for all features of Fake AirPods Pro Airoha 1562AE.
