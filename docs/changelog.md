@@ -1,3 +1,25 @@
+## 2.0.54.0 (22-09-2023)
+
+Added a new way to check the battery of unsupported fake AirPods with the Airoha chip.
+
+Added:
+
+- Option to check for updates
+- Low audio latency is available for all headphones
+
+Improved:
+
+- Reduce CPU usage when saveing/loading settings
+- Some features can now be toggled on/off without reconnecting headphones
+- Slightly optimized VoiceOver function
+- Some UI elements have new hover effect
+
+Fixed:
+
+- Low audio latency could sometimes crash
+
+Updated translations for various languages
+
 ## 2.0.53.0 (11-08-2023)
 
 Added support for all features of Fake AirPods Pro 2 Airoha 1562AE and AirPods 3 1562E. Significantly reduced CPU consumption in the background. 
