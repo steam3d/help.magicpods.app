@@ -1,3 +1,7 @@
+## 2.0.55.0 (25-09-2023)
+
+Added AirPods Pro 2 Type-C support
+
 ## 2.0.54.0 (22-09-2023)
 
 Added a new way to check the battery of unsupported fake AirPods with the Airoha chip.
