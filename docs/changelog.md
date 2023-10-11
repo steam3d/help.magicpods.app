@@ -1,3 +1,7 @@
+## 2.0.56.0 (12-10-2023)
+
+Fixed issue when some headphones were not displayed
+
 ## 2.0.55.0 (25-09-2023)
 
 Added AirPods Pro 2 Type-C support
