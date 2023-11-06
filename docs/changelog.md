@@ -1,4 +1,4 @@
-## 2.0.56.0 (06-11-2023)
+## 2.0.57.0 (06-11-2023)
 
 Added support for 🎧Sony WF-1000XM3, 🎧Sony WH-1000XM4 and 🎧Beats Studio Buds+
 
