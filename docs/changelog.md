@@ -1,3 +1,12 @@
+## 2.0.56.0 (06-11-2023)
+
+Added support for 🎧Sony WF-1000XM3, 🎧Sony WH-1000XM4 and 🎧Beats Studio Buds+
+
+Fixed:
+
+- Sometimes commands for control Fake AirPods could be sent multiple times
+- Some bugs in the interface
+
 ## 2.0.56.0 (12-10-2023)
 
 Fixed issue when some headphones were not displayed
