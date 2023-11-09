@@ -1,3 +1,9 @@
+## 2.0.58.0 (09-11-2023)
+
+Fixed:
+
+- The ear detection feature did not work for some AirPods Max users
+
 ## 2.0.57.0 (06-11-2023)
 
 Added support for 🎧Sony WF-1000XM3, 🎧Sony WH-1000XM4 and 🎧Beats Studio Buds+
