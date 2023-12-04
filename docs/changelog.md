@@ -1,3 +1,9 @@
+## 2.0.59.0 (04-12-2023)
+
+Updated and improved translation for most languages.
+
+❤️ Thanks to our community for their help.
+
 ## 2.0.58.0 (09-11-2023)
 
 Fixed:
