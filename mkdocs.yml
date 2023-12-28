@@ -10,34 +10,33 @@ nav:
     - LE not supported: "bt-le-not-supported.md"
   - 'Functions':
     - Capability: fun-capability.md
+    - Change image: headphones-change-image.md
     - 'Headphones':
-      - Change image: headphones-change-image.md
+      - Other headphones: headphones/other-headphones.md
+      - + AirPods 1-2: headphones/apple-airpods12.md
+      - + AirPods 3: headphones/apple-airpods3.md
+      - + AirPods Max: headphones/apple-airpodsmax.md
+      - + AirPods Pro: headphones/apple-airpodspro.md
+      - AirPods Pro 2: headphones/apple-airpodspro2.md
+      - + Beats Fit Pro: headphones/apple-beatsfitpro.md
+      - Beats Flex: headphones/apple-beatsflex.md
+      - Beats Solo 3: headphones/apple-beatssolo3.md
+      - Beats Solo Pro: headphones/apple-beatssolopro.md
+      - Beats Studio 3: headphones/apple-beatsstudio3.md
+      - Beats Studio Buds: headphones/apple-beatsstudiobuds.md
+      - Beats Studio Buds Plus: headphones/apple-beatsstudiobudsplus.md
+      - Beats X: headphones/apple-beatsx.md
+      - Power Beats 3: headphones/apple-powerbeats3.md
+      - Power Beats 4: headphones/apple-powerbeats4.md
+      - + Power Beats Pro: headphones/apple-powerbeatspro.md
+      - Sony WF-1000XM3: headphones/sony-wf1000xm3.md
+      - Sony WH-1000XM4: headphones/sony-wh1000xm4.md
+      - Fake AirPods Pro 2 Airoha 1562AE: headphones/airoha-airpodspro2-1562ae.md
+      - Fake AirPods Pro Airoha 1562AE: headphones/airoha-airpodspro-1562ae.md
+      - Fake AirPods 3 Airoha 1562E: headphones/airoha-airpods3-1562e.md
+
       - Show battery percentage: headphones-show-battery-percentage.md
-      - Low audio latency: headphones-low-audio-latency.md
-      - Auto play: headphones-auto-play.md
-      - Auto pause: headphones-auto-pause.md
-      - Auto disable Handsfree: headphones-auto-disable-hfp.md  
-      - Low battery notification: headphones-low-battery-notification.md 
-      - Auto switch sound output: headphones-auto-switch-sound-output.md
-      - Connect hotkey: headphones-hotkey-connect.md
-      - "AirPods / Beats":
-        - Ear Detection: headphones-ear-detection.md
-        - Fast search: headphones-fast-search.md
-        - Auto connect: headphones-auto-connect.md
-      - "Sony":
-        - Noise cancelling: headphones-sony-anc.md
-      - "Fake Airoha AirPods":
-        - Chip Firmware: "headphones-airoha-chip.md" 
-        - Ear Detection: headphones-airoha-ear-detection.md
-        - Noise cancelling: headphones-airoha-anc.md
-        - Head tracking: headphones-airoha-head-tracking.md
-        - Earbuds keys: headphones-airoha-earbuds-keys.md
-        - Case sounds: headphones-airoha-case-sounds.md
-        - Multipoint connection: headphones-airoha-multipoint-connection.md
-        - Wind noise reduction: headphones-airoha-wnr.md
-        - Voice control: headphones-airoha-voice-control.md
-        - Equalizer: headphones-airoha-equalizer.md
-        - Game mode: headphones-airoha-game-mode.md
+
     - 'General settings':
       - Pop-up window: fun-popup-animation.md
       - Sound output: fun-sound-output.md
@@ -95,5 +94,9 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: ⚓︎
+      toc_depth: 3
 site_url:
   https://help.magicpods.app/
+
+plugins:
+  - include-markdown
