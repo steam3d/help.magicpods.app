@@ -12,15 +12,40 @@ nav:
     - Capability: fun-capability.md
     - 'Headphones':
       - Change image: headphones-change-image.md
-      - Ear Detection: headphones-ear-detection.md
       - Show battery percentage: headphones-show-battery-percentage.md
-      - Low battery notification: headphones-low-battery-notification.md 
+      - Low audio latency: headphones-low-audio-latency.md
+      - Auto play: headphones-auto-play.md
+      - Auto pause: headphones-auto-pause.md
       - Auto disable Handsfree: headphones-auto-disable-hfp.md  
+      - Low battery notification: headphones-low-battery-notification.md 
+      - Auto switch sound output: headphones-auto-switch-sound-output.md
+      - Connect hotkey: headphones-hotkey-connect.md
+      - "AirPods / Beats":
+        - Ear Detection: headphones-ear-detection.md
+        - Fast search: headphones-fast-search.md
+        - Auto connect: headphones-auto-connect.md
+      - "Sony":
+        - Noise cancelling: headphones-sony-anc.md
+      - "Fake Airoha AirPods":
+        - Chip Firmware: "headphones-airoha-chip.md" 
+        - Ear Detection: headphones-airoha-ear-detection.md
+        - Noise cancelling: headphones-airoha-anc.md
+        - Head tracking: headphones-airoha-head-tracking.md
+        - Earbuds keys: headphones-airoha-earbuds-keys.md
+        - Case sounds: headphones-airoha-case-sounds.md
+        - Multipoint connection: headphones-airoha-multipoint-connection.md
+        - Wind noise reduction: headphones-airoha-wnr.md
+        - Voice control: headphones-airoha-voice-control.md
+        - Equalizer: headphones-airoha-equalizer.md
+        - Game mode: headphones-airoha-game-mode.md
     - 'General settings':
-      - Popup window: fun-popup-animation.md
+      - Pop-up window: fun-popup-animation.md
       - Sound output: fun-sound-output.md
       - Audio streaming: fun-audio-streaming.md
       - VoiceOver: fun-audio.md
+      - System tray icon: fun-tray-icon.md
+    - 'Preferences':
+      - Application settings: pref-app-settings.md
     - Icons description: fun-icons-description.md
     - Pair headphones: help-pairing-headphones.md
 

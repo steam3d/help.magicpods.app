@@ -1,5 +1,3 @@
-## Change image
-
 You can change the headphones image in the following ways:
 
 > Images in `png` format with resolution `512x512px` are supported. Higher resolution images will automatically compressed to 512x512px on the larger side of the image.
