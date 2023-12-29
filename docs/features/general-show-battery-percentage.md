@@ -1,15 +1,12 @@
 ## Show battery percentage
 
-!!! note
-    For AirPods and Beats headphones this feature is missing, because the battery information available by default for those headphones.
-
 Many headphones can provide battery information. MagicPods can try to get the charge level from such headphones.
 
-During showing battery, the voice communication will be unavailable, you could not make the call in applications like Skype, Discord and etc.
+During showing battery, the voice communication will be unavailable, you could not make the call in applications like Skype, Discord and, etc.
 
 > To restore voice communication, turn off `Show battery percentage` and reconnect headphones.
 
-#### Prepare headphones
+### Prepare headphones
 
 Before turning on `Show battery percentage` be sure that Hands-free service enabled.
 

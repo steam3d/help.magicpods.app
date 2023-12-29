@@ -1,18 +1,13 @@
 ## Low battery notification
 
-Show a notification when the headphone charge is below the specified value. 
+Show a notification when the headphone charge is below the specified value. The notification is displayed once for each connected headphones.
 
-> MagicPods sends a standard Windows notification, to setup priority, notification in focus mode etc. go to Windows notification settings and choose MagicPods.
+> You can customize the priority of notifications and allow notifications in focus mode in Windows Notification Settings.
 
-#### Enable
-
-Slide the slider to the necessary value. When the charge level of headphones will be the same as the value or below the notification will appear.
-
-> Notification will be shown only once during connect session
+| Option  | Description                                                                                                                                       |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Enable  | Slide the slider to the necessary value. When the charge level of headphones will be the same as the value or below the notification will appear. |
+| Disable | Slide the slider to the left until the value text changed to `off`                                                                                | 
 
 !!! tip
     Low battery notification can be read by a narrator. Enable reading the MagicPods notification VoiceOver settings.
-
-#### Disable
-
-Slide the slider to the left until the value text changed to `off`

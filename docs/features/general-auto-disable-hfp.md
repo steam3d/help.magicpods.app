@@ -5,19 +5,16 @@
 
 The hands-free service or profile is used for voice communication. All Bluetooth headphones have very poor sound and microphone quality when used in this mode. (You can get slightly better quality with certain Bluetooth adapters.)
 
-If you're not using the microphone on your headphones, it's a good idea to turn off HandsFree. This will speed up the headphone connection process and remove the automatic switch to HandsFree mode when a voice application is opened.
 
+| Option | Description                                                                                                                       |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| On     | Immediately disables the Handsfree service. The MagicPods will monitor and turn off the the Handsfree service if it is turned on. |
+| Off    | Immediately enables the Handsfree service. MagicPods will stop monitoring the Handsfree service state.                            |
 
-#### Enable
+!!! tip
+    Disabling the Handsfree service will speed up the headphone connection considerably
 
-Turn on the toggle switch, when headphone's the Handsfree service will be connected the MagicPods will disable it.
-
-#### Disable
-
-Turn off the toggle switch, the MagicPods will enable the Handsfree service, then the MagicPods will stop checking the Handsfree state. 
-
-
-### If something went wrong
+### Microphone doesn't work
 
 If you are having trouble enabling HandsFree service or manual control it, follow these steps:
 

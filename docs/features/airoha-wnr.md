@@ -6,8 +6,10 @@ Reduces wind noise, not sure what mode it is used for. Presumably affects noise 
 
 The following options are available:
 
-- Low 
-- Medium 
-- High
+| Option | Description |
+| ------ | ----------- |
+| Low    | —           |
+| Medium | —           |
+| High   | —           |
 
 Required AirPods factory reset to apply.
