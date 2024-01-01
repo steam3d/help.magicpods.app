@@ -1,6 +1,6 @@
 ## Auto switch sound output
 
-Switch audio from the headphones to default speakers when both earbuds are out of ear or the full-size headphones are removed from your head. (Not all headphones support this feature)
+Switch audio from the headphones to the specified speakers when both earbuds are out of ear or the full-size headphones are removed from your head.
 
 | Option  | Description                                                                                                             |
 | ------- | ----------------------------------------------------------------------------------------------------------------------- |

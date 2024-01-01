@@ -40,8 +40,6 @@ The following players are additionally supported:
 
 ### Set decrease volume
 
-Set the percentage to which the current volume will be reduced.
-
-> For example the headphone volume is 50 and the percentage to which volume will be reduced is 25%. Then when you remove one headphone from your ear the volume will be `50 * (25 / 100) = 12.5` 
+Set the percentage to which the current volume will be reduced. Calculated by the formula `headphone volume * (decrease volume / 100)`.
 
 ![](../media/screenshots/headphones-descrease-volume.gif)

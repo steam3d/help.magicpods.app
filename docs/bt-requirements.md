@@ -1,1 +1,0 @@
-MagicPods require a Bluetooth adapter that supports Bluetooth 4.0 or higher to work properly. We recommend updating the Bluetooth driver to the latest version.

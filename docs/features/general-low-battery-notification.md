@@ -10,4 +10,4 @@ Show a notification when the headphone charge is below the specified value. The 
 | Disable | Slide the slider to the left until the value text changed to `off`                                                                                | 
 
 !!! tip
-    Low battery notification can be read by a narrator. Enable reading the MagicPods notification VoiceOver settings.
+    To have the notification read out by a narrator, turn on MagicPods in the VoiceOver settings

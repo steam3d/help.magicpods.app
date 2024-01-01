@@ -4,6 +4,18 @@
 
 Show or hide pop-up window like on iPhone, when you open the case. 
 
+Compatible with:
+
+- AirPods 1
+- AirPods 2
+- AirPods 3
+- AirPods Pro
+- AirPods Pro 2
+- AirPods Max
+- Beats Fit Pro
+- Beats Studio Buds
+- PowerBeats Pro
+
 ### Windows size
 
 Customize the size of pop-up window.

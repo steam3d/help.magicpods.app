@@ -1,24 +1,19 @@
 site_name: MagicPods Help
 nav:
   - Home: index.md
-  - 'Bluetooth':
-    - Requirements: 'bt-requirements.md'
-    - Adapter not found: "bt-adapter-not-found.md"
-    - Multiple adapters connected: "bt-multiple-adapters-connected.md"
-    - Adapter initialization error: "bt-adapter-initialization-error.md"
-    - Classic not supported: "bt-classic-not-supported.md"
-    - LE not supported: "bt-le-not-supported.md"
+  - Bluetooth: 'bt-bluetooth.md'
   - 'Functions':
-    - Capability: fun-capability.md
+    - Live tiles: fun-live-tiles.md
+    - Widgets: fun-widgets.md
     - Change image: headphones-change-image.md
     - 'Headphones':
       - Other headphones: headphones/other-headphones.md
-      - + AirPods 1-2: headphones/apple-airpods12.md
-      - + AirPods 3: headphones/apple-airpods3.md
-      - + AirPods Max: headphones/apple-airpodsmax.md
-      - + AirPods Pro: headphones/apple-airpodspro.md
+      - AirPods 1-2: headphones/apple-airpods12.md
+      - AirPods 3: headphones/apple-airpods3.md
+      - AirPods Max: headphones/apple-airpodsmax.md
+      - AirPods Pro: headphones/apple-airpodspro.md
       - AirPods Pro 2: headphones/apple-airpodspro2.md
-      - + Beats Fit Pro: headphones/apple-beatsfitpro.md
+      - Beats Fit Pro: headphones/apple-beatsfitpro.md
       - Beats Flex: headphones/apple-beatsflex.md
       - Beats Solo 3: headphones/apple-beatssolo3.md
       - Beats Solo Pro: headphones/apple-beatssolopro.md
@@ -28,7 +23,7 @@ nav:
       - Beats X: headphones/apple-beatsx.md
       - Power Beats 3: headphones/apple-powerbeats3.md
       - Power Beats 4: headphones/apple-powerbeats4.md
-      - + Power Beats Pro: headphones/apple-powerbeatspro.md
+      - Power Beats Pro: headphones/apple-powerbeatspro.md
       - Sony WF-1000XM3: headphones/sony-wf1000xm3.md
       - Sony WH-1000XM4: headphones/sony-wh1000xm4.md
       - Fake AirPods Pro 2 Airoha 1562AE: headphones/airoha-airpodspro2-1562ae.md
@@ -45,11 +40,7 @@ nav:
       - System tray icon: fun-tray-icon.md
     - 'Preferences':
       - Application settings: pref-app-settings.md
-    - Icons description: fun-icons-description.md
     - Pair headphones: help-pairing-headphones.md
-
-  - 'Headphones':
-    - Fake headphones warning: info-fake-headphones.md
 
   - 'Resolving known issues':
     - Infinite search: issue-infinite-search.md
@@ -100,3 +91,6 @@ site_url:
 
 plugins:
   - include-markdown
+
+exclude_docs:
+ features/

@@ -6,15 +6,14 @@ The settings work similarly to the official app [Sony Headphones](https://play.g
 !!! note
     Before you start, connect your headphones.
 
+| Option             | Description                   |
+| ------------------ | ----------------------------- |
+| Noise cancellation | —                             |
+| Wind cancellation  | —                             |
+| Ambient sound      | Additional settings available | 
+| Off                | —                             |
 
-The following modes are available:
-
-- Noise cancellation
-- Wind cancellation
-- Ambient sound
-- Off 
-
-#### Ambient sound
+### Ambient sound
 
 The ambient sound has additional settings.
 
