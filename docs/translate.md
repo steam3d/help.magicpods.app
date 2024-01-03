@@ -1,4 +1,4 @@
- [![Translation status](https://weblate.magicpods.app/widgets/magicpods-windows/-/svg-badge.svg)](https://weblate.magicpods.app/engage/magicpods-windows/)
+# Translate
 
 You can help your local users by adding your native language. This will allow people who do not know other languages use the application.
 

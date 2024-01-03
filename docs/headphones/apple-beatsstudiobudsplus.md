@@ -1,6 +1,10 @@
 # Beats Studio Buds Plus
 
 {%
+   include-markdown "features/apple-battery.md"
+%}
+
+{%
    include-markdown "features/apple-fast-search.md"
 %}
 

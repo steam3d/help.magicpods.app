@@ -1,6 +1,10 @@
 # AirPods Pro
 
 {%
+   include-markdown "features/apple-battery.md"
+%}
+
+{%
    include-markdown "features/apple-ear-detection.md"
 %}
 

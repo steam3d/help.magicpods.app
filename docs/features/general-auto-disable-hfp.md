@@ -15,11 +15,6 @@ The Handsfree profile is used for voice communication and has poor microphone an
 
 ### Microphone doesn't work
 
-If you are having trouble enabling HandsFree service or manual control it, follow these steps:
-
-1. Turn off the Auto disable Handsfree feature of necessary headphones.
-2. Open `Control panel`
-3. Right click on `Devices and Printers` and choose `Open`
-4. Select your headphones and check the `Handsfree Telephony` turned on.
-
-![](../media/AirPodsServices.jpg)
+{%
+   include-markdown "issues/issue-enable-hfp.md"
+%}

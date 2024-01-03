@@ -1,6 +1,10 @@
 # Sony WH-1000XM4
 
 {%
+   include-markdown "features/sony-battery.md"
+%}
+
+{%
    include-markdown "features/sony-anc.md"
 %}
 

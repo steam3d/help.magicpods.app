@@ -1,6 +1,10 @@
 # Fake AirPods Pro 2 Airoha 1562AE
 
 {%
+   include-markdown "features/airoha-battery.md"
+%}
+
+{%
    include-markdown "features/airoha-chip.md"
 %}
 

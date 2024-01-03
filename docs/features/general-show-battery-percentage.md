@@ -25,10 +25,6 @@ Allows you to get the charge level using Handsfree profile. This method is suita
 
 ### Battery is not displayed
 
-Check whether Handsfree is enabled in the settings
-
-1. Open `Control panel`
-2. Right click on `Devices and Printers` and choose `Open`
-3. Select your headphones and check the `Handsfree Telephony` turned on.
-
-![](../media/AirPodsServices.jpg)
+{%
+   include-markdown "issues/issue-enable-hfp.md"
+%}

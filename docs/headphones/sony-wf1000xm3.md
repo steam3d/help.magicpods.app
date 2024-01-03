@@ -1,4 +1,8 @@
-# Sony WF-1000XM3 
+# Sony WF-1000XM3
+
+{%
+   include-markdown "features/sony-battery.md"
+%}
 
 {%
    include-markdown "features/sony-anc.md"

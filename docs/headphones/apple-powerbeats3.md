@@ -1,6 +1,10 @@
 # Power Beats 3
 
 {%
+   include-markdown "features/apple-battery.md"
+%}
+
+{%
    include-markdown "features/apple-fast-search.md"
 %}
 

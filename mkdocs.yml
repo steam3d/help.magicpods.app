@@ -1,8 +1,8 @@
 site_name: MagicPods Help
 nav:
-  - Home: index.md
+  - Getting Started: index.md
   - Bluetooth: 'bt-bluetooth.md'
-  - 'Functions':
+  - 'Features':
     - Live tiles: fun-live-tiles.md
     - Widgets: fun-widgets.md
     - Change image: headphones-change-image.md
@@ -94,3 +94,4 @@ plugins:
 
 exclude_docs:
  features/
+ issues/
