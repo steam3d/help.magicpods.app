@@ -1,3 +1,15 @@
+## 2.0.59.0 (04-01-2024)
+
+Meet Windows 11 widgets ✨
+
+Fixed:
+
+- After enabling the tray icon, the app was not detecting the system theme
+- Some Fake AirPods displayed incorrect settings
+- Sometimes buttons were highlighted when opening a window
+- After resetting the settings, moving the window did not work
+- Optimized application work in background
+
 ## 2.0.59.0 (04-12-2023)
 
 Updated and improved translation for most languages.
