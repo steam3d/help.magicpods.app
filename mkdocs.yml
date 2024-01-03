@@ -1,6 +1,6 @@
 site_name: MagicPods Help
 nav:
-  - Getting Started: index.md
+  - Getting started: index.md
   - Bluetooth: 'bt-bluetooth.md'
   - 'Features':
     - Live tiles: fun-live-tiles.md
@@ -29,8 +29,6 @@ nav:
       - Fake AirPods Pro 2 Airoha 1562AE: headphones/airoha-airpodspro2-1562ae.md
       - Fake AirPods Pro Airoha 1562AE: headphones/airoha-airpodspro-1562ae.md
       - Fake AirPods 3 Airoha 1562E: headphones/airoha-airpods3-1562e.md
-
-      - Show battery percentage: headphones-show-battery-percentage.md
 
     - 'General settings':
       - Pop-up window: fun-popup-animation.md
@@ -92,6 +90,6 @@ site_url:
 plugins:
   - include-markdown
 
-exclude_docs:
- features/
- issues/
+exclude_docs: |
+  features/
+  issues/
