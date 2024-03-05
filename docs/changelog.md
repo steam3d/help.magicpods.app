@@ -1,3 +1,16 @@
+## 2.0.66.0 (06-03-2024)
+
+The Support page design updated
+
+Added:
+
+- Beats Fit Pro Gray animation
+- Filipino language
+
+Fixed:
+
+- Position of popup window when two or more monitors
+
 ## 2.0.65.0 (04-01-2024)
 
 Meet Windows 11 widgets ✨
