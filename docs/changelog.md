@@ -1,3 +1,7 @@
+## 2.0.71.0 (02-05-2024)
+
+Added Beats Studio Pro support. Updated and improved translation for most languages.
+
 ## 2.0.66.0 (06-03-2024)
 
 The Support page design updated
