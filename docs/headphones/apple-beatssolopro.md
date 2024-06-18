@@ -1,6 +1,14 @@
 # Beats Solo Pro
 
 {%
+   include-markdown "features/aap-driver.md"
+%}
+
+{%
+   include-markdown "features/aap-battery.md"
+%}
+
+{%
    include-markdown "features/apple-battery.md"
 %}
 

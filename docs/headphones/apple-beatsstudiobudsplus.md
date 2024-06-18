@@ -1,6 +1,14 @@
 # Beats Studio Buds Plus
 
 {%
+   include-markdown "features/aap-driver.md"
+%}
+
+{%
+   include-markdown "features/aap-battery.md"
+%}
+
+{%
    include-markdown "features/apple-battery.md"
 %}
 

@@ -1,6 +1,22 @@
 # AirPods 1-2
 
 {%
+   include-markdown "features/aap-driver.md"
+%}
+
+{%
+   include-markdown "features/aap-battery.md"
+%}
+
+{%
+   include-markdown "features/aap-double-tap.md"
+%}
+
+{%
+   include-markdown "features/aap-microphone.md"
+%}
+
+{%
    include-markdown "features/apple-battery.md"
 %}
 

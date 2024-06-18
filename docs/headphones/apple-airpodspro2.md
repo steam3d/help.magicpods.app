@@ -1,6 +1,54 @@
 # AirPods Pro 2
 
 {%
+   include-markdown "features/aap-driver.md"
+%}
+
+{%
+   include-markdown "features/aap-battery.md"
+%}
+
+{%
+   include-markdown "features/aap-noise-control.md"
+%}
+
+{%
+   include-markdown "features/aap-cycle-between.md"
+%}
+
+{%
+   include-markdown "features/aap-personalised-volume.md"
+%}
+
+{%
+   include-markdown "features/aap-conversation-awareness.md"
+%}
+
+{%
+   include-markdown "features/aap-end-call-mute-mic.md"
+%}
+
+{%
+   include-markdown "features/aap-microphone.md"
+%}
+
+{%
+   include-markdown "features/aap-press-speed.md"
+%}
+
+{%
+   include-markdown "features/aap-press-and-hold-duration.md"
+%}
+
+{%
+   include-markdown "features/aap-anc-one-airpod.md"
+%}
+
+{%
+   include-markdown "features/aap-tune-volume.md"
+%}
+
+{%
    include-markdown "features/apple-battery.md"
 %}
 
