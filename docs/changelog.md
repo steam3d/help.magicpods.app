@@ -10,8 +10,6 @@ Added:
 
 - Getting the charge level from the Bluetooth settings page
 
-If you experience problems after updating, try reinstalling the application and restarting your PC.
-
 ## 2.0.71.0 (02-05-2024)
 
 Added Beats Studio Pro support. Updated and improved translation for most languages.
