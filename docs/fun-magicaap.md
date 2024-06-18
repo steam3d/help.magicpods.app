@@ -70,9 +70,16 @@ bcdedit /set testsigning ON
 
 ### 4. Install the MagicAAP driver
 
+Optionally you can check the integrity of the [magicaap.zip](https://magicpods.app/utils/magicaap.zip)
+
+
+```
+SHA256          E16A8F1C6052432A388D33FDD4AC6D4F3CA909CF4C3DD37A152DB0E9342B66C2
+```
+
 #### Automatic installation
 
-1. Download MagicAAP driver
+1. [Download MagicAAP driver](https://magicpods.app/utils/magicaap.zip)  
 2. Unzip the driver archive and navigate to the driver folder
 3. Right-click on `MagicAAP.inf` and select `Install` in the context menu  
 ![](/media/MagicAAP-Driver-Install-Auto.png)
@@ -81,7 +88,7 @@ bcdedit /set testsigning ON
 
 #### Manual installation
 
-1. Download MagicAAP driver
+1. [Download MagicAAP driver](https://magicpods.app/utils/magicaap.zip)
 2. Unzip the driver archive
 3. Press `Start` and type `Device Manager` in the search box
 4. In the search results, select `Device Manager`
