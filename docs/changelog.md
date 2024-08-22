@@ -1,3 +1,21 @@
+## 2.0.73.0 (22-08-2024)
+
+New charge level icons in the system tray, as well as the ability to customize colors and other icon settings.
+
+Fixed:
+
+- Optimized RAM consumption
+- Text icon did not display translucent pixels correctly
+- Some UI elements had the wrong style
+
+Added:
+
+- Ability to customize battery icon colors
+- Battery icon now displays charge separately for right and left earpiece
+- Ability to customize text icon colors
+- Ability to customize the font of the text icon
+- Ability to customize text icon font size
+
 ## 2.0.72.0 (17-06-2024)
 
 MagicPods are ready for something special.
