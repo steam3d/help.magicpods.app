@@ -1,3 +1,12 @@
+## 2.0.74.0 (24-09-2024)
+
+Added beta support for AirPods 4 and AirPods Max 2024
+
+Fixed:
+
+- The colors of the welcome animation were not displaying correctly for some users
+- In some cases, numbers on the tray icon were not centered
+
 ## 2.0.73.0 (22-08-2024)
 
 New charge level icons in the system tray, as well as the ability to customize colors and other icon settings.
