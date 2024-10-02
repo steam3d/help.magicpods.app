@@ -1,3 +1,7 @@
+## 2.0.75.0 (02-10-2024)
+
+Added advanced features such as noise cancellation switching for AirPods 4 ANC and AirPods Max 2024 when using the MagicAAP driver
+
 ## 2.0.74.0 (24-09-2024)
 
 Added beta support for AirPods 4 and AirPods Max 2024
