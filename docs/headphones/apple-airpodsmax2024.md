@@ -1,8 +1,5 @@
 # AirPods Max
 
-!!! warning
-    Beta support; not all features were tested.
-
 {%
    include-markdown "features/aap-driver.md"
 %}
