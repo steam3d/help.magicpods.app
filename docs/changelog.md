@@ -1,3 +1,26 @@
+## 2.0.78.0 (31-10-2024)
+
+Introducing a new home for hotkeys!
+Now all the hotkeys are gathered on one page for easier customization.
+
+Added:
+
+- Separate hotkey for connecting headphones
+- Separate hotkey for disconnecting headphones
+- Separate hotkey for connecting streaming devices
+- Separate hotkey for disconnecting streaming devices
+- Hotkey for managing Bluetooth
+- Hotkey for skipping notification reading
+- Option to switch icon styles
+- Option to force audio output switching when connecting headphones
+- Animation of blue AirPods Max 2024
+
+Fixed:
+
+- Optimized memory usage
+- Fixed an issue where the low battery notification setting was not reflected on the tray icon
+
+
 ## 2.0.75.0 (02-10-2024)
 
 Added advanced features such as noise cancellation switching for AirPods 4 ANC and AirPods Max 2024 when using the MagicAAP driver
