@@ -1,3 +1,7 @@
+## 2.0.79.0 (12-11-2024)
+
+Added support for AirPods 4 without ANC.
+
 ## 2.0.78.0 (31-10-2024)
 
 Introducing a new home for hotkeys!
