@@ -1,8 +1,5 @@
 # Купить MagicPods в России
 
-!!! warning
-    Письма чаще стали попадать в спам. Пожалуйста проверяйте так же папку спам.
-
 ## Telegram бот (Моментальное получение)
 
 [MagicPodsBot](https://t.me/MagicPodsBot){ .md-button .md-button--primary target=_blank}
