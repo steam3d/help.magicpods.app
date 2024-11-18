@@ -21,7 +21,7 @@
 1. Сделайте перевод по кнопке
 2. Отправьте скриншот об оплате на [MagicPods@outlook.com](mailto:MagicPods@outlook.com). В теме письма укажите `Оплата Yoomoney` (чтобы письмо случайно не попало в спам)
 3. Код активации c инструкцией придет в ответном письме
-4. (Опциоально) Чтобы приобрести ключ для [MagicPods (Installer)](https://magicpods.app/installer/MagicPods.appinstaller), укажите в письме «Ключ продукта». Для этого:
+4. (Опционально) Чтобы приобрести ключ для [MagicPods (Installer)](https://magicpods.app/installer/MagicPods.appinstaller), укажите в письме «Ключ продукта». Для этого:
     1. Запустите MagicPods
     2. Перейдите на страницу «Поддержка»
     3. Нажмите кнопку «Ввести ключ»
@@ -38,7 +38,7 @@ EQDU3Pagbzs0VTiF47QKnCGDZtWHsk0jOSPKYR6jSJtnkcpN
 1. Переведите <img src="/media/ton_symbol_stroke.svg" Width="12"> **0.25**
 2. Отправьте номер транзакции на [MagicPods@outlook.com](mailto:MagicPods@outlook.com). В теме письма укажите `Оплата TON` (чтобы письмо случайно не попало в спам)
 3. Код активации c инструкцией придет в ответном письме
-4. (Опциоально) Чтобы приобрести ключ для [MagicPods (Installer)](https://magicpods.app/installer/MagicPods.appinstaller), укажите в письме «Ключ продукта». Для этого:
+4. (Опционально) Чтобы приобрести ключ для [MagicPods (Installer)](https://magicpods.app/installer/MagicPods.appinstaller), укажите в письме «Ключ продукта». Для этого:
     1. Запустите MagicPods
     2. Перейдите на страницу «Поддержка»
     3. Нажмите кнопку «Ввести ключ»
