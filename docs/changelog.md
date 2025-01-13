@@ -1,3 +1,42 @@
+## 2.0.81.0 (13-01-2025)
+
+First Update of 2025: The app now supports right-to-left written languages!
+
+Interface:
+
+- Unified settings components, improving performance.
+- Added a button to go to the website.
+- Removed unused elements.
+- The selected language now also applies to the system tray icon and the widget.
+- Fixed an issue where keyboard shortcuts were not showing in the system tray icon's context menu.
+- Some interface elements now disabling instead of disappearing to avoid confusion for users.
+
+Added:
+
+- New feature "Display sound output change": when the sound switches to speakers, the icon becomes transparent, and vice versa — when switching to headphones.
+- Improved interface adaptability: the app now works correctly on small and vertical screens.
+- Added alpha support for AirPods Pro 2 with Airoha AB1571AM chip.
+
+Improved:
+
+- Fixed rare bugs causing app crashes.
+- Fixed an issue where the app would incorrectly close on Windows 10.0.17763.
+- Speed up headphone loading (by 1-15 times).
+- Headphones now load without a 15-second delay when turning Bluetooth on/off.
+- All headphone connection-dependent functions now activate 1 second faster.
+- Reduced delay when getting battery level using the "Charge level via Handsfree" function.
+- Fixed memory leaks when closing pop-ups.
+- Fixed an issue where multiple context menus could be created in the system tray.
+- Optimized overall performance.
+
+New Languages:
+
+- Arabic
+- Persian
+- Hebrew
+- Urdu
+- Finnish
+
 ## 2.0.79.0 (12-11-2024)
 
 Added support for AirPods 4 without ANC.
