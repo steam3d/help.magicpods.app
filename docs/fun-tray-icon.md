@@ -119,8 +119,8 @@ Icon | Description
 ![](media/trayicons/AnalogSingleBatteryLow.png) | Analog icon of a single low battery for headphones
 ![](media/trayicons/AnalogRLBatteryLow.png) | Analog icon of left and right low batteries for headphones
 ![](media/trayicons/DigitalBattery.png) | Digital icon of a battery for headphones
-![](media/trayicons/DigitalBatteryLow.png) | Digital icon of low battery for headphones
 ![](media/trayicons/DigitalBatteryCharge.png) | Digital icon of a charging battery
+![](media/trayicons/DigitalBatteryLow.png) | Digital icon of low battery for headphones
 
 ## Tray icon hover tooltip
 
