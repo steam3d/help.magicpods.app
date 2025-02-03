@@ -1,42 +1,59 @@
 # Infinite search
 
-Sometimes when connecting AirPods, MagicPods may try to connect (or search for) headphones in endlessly. Even if the headphones are connected successfully and you are listening to music through them.
-
 !!! tip
     Ignore this warn notification if MagicPods is working normally or [report](report-issue.md) accidental notification.
 
+In most cases, this error occurs because the Windows-managed Bluetooth adapter fails to send data to MagicPods.
+
 ![](media/InfiniteSearch.png)
 
-For unknown reason Windows do not allow working with bluetooth and reboot doesn't help.
+Based on user feedback, the following reasons have been identified:
 
+- Corrupted system files
+- Windows update that caused issues
+- Bluetooth driver update that caused issues
+- Incorrect Windows settings, often after using optimization tools
 
-### Solution 1
+The following steps may help resolve this issue. Start with the first step and continue until the problem is resolved. Before you begin, close MagicPods. After each step, restart MagicPods and check if the issue is resolved.
 
-Check some settings in The Windows
+To close MagicPods, right-click the MagicPods tray icon and select `Exit`, or open the MagicPods window and click `Close MagicPods`.
 
-1. Close the MagicPods. Right click on MagicPods tray icon «Exit» or in MagicPods window click «Close MagicPods»
-2. Open the Windows settings (Win+i)
-3. Go to -> `Privacy` -> `Radios`. Turn off all switches and turn on again
-4. Go to -> `Privacy` -> `Other Devices`. Turn off all switches and turn on again
-5. Open the MagicPods and try to connect AirPods
+### 1. Check system files for errors
+
+1. Perform file verification according to Microsoft's official instructions [Using System File Checker in Windows](https://support.microsoft.com/en-us/windows/using-system-file-checker-in-windows-365e0031-36b1-6031-f804-8fd86e0ef4ca)
+2. Restart the computer
+
+### 2. Update your Bluetooth driver
+
+#### Using Windows Update
+1. Open `Settings` by pressing `Win + I`.  
+2. Go to `Windows Update`.  
+3. Click `Check for updates` and install any available updates.  
+4. Click `Advanced options`, then select `Optional updates`.  
+5. Look for any available `Bluetooth driver updates` and install them.  
+
+#### Manually Updating the Driver
+
+If no updates are found automatically:  
+
+1. Visit the website of your `Bluetooth adapter’s manufacturer`.  
+2. Download the latest `Bluetooth driver` for your device.  
+3. Install the driver following the manufacturer’s instructions.
+
+If steps did not help, try to install the older Bluetooth driver instead the latest one.
+
+### 3. Check some settings in Windows
+
+1. Open `Settings` by pressing `Win + I`.  
+2. Go to -> `Privacy` -> `Radios`. Turn off all switches and turn on again
+3. Go to -> `Privacy` -> `Other Devices`. Turn off all switches and turn on again
 
 ![](media/InfiniteSearchWindowsSettings.gif)
 
+### 4. Reinstall MagicPods
 
-### Solution 2
+1. Uninstall the MagicPods
+2. `Important!` Reboot your PC
+3. Install MagicPods
 
-1. Close the MagicPods. Right click on MagicPods tray icon `Exit` or in MagicPods window click `Close MagicPods`
-2. Update a Bluetooth driver to the latest version from manufacturer site. (Note: Windows update center may has not latest bluetooth driver)
-3. Open the MagicPods and try to connect AirPods
-
-If steps from above did not help, try to install the older Bluetooth driver instead the latest one.
-
-### Solution 3
-
-1. Close the MagicPods
-2. Open `Task Manager` and terminate `MagicPodsService.exe` and `MagicPodsUI.exe` if they still work
-3. Uninstall the MagicPods
-4. `Important!` Reboot your PC
-5. Install MagicPods
-
-Usefully steeps above must help. if the problem still persists or you know a new solution, [create new issue.](report-issue.md)
+The useful steps above should help. If the problem persists or you have found a new solution, [create a new issue.](report-issue.md)
