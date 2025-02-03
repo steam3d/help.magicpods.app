@@ -2,16 +2,8 @@
 
 There are 3 reasons for this error:
 
-1. Unplugged Bluetooth Dongle
-2. Bluetooth Dongle has Bluetooth version below 4.0
-3. The windows doesn't allow access to Bluetooth
-
-## Unplugged Bluetooth Dongle
-
-Plug Bluetooth dongle and restart the MagicPods.
-
-!!! warning
-    The MagicPods doesn't have yet auto detect bluetooth module.
+1. Bluetooth Dongle has Bluetooth version below 4.0
+2. The windows doesn't allow access to Bluetooth
 
 ## Bluetooth Dongle has Bluetooth version below 4.0
 
