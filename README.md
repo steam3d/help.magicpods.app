@@ -6,10 +6,10 @@ Used to generate static
 Ver
 
 ```
-mkdocs                         1.4.2
+mkdocs                         1.6.1
 mkdocs-include-markdown-plugin 6.0.4
-mkdocs-material                9.0.5
-mkdocs-material-extensions     1.1.1
+mkdocs-material                9.5.50
+mkdocs-material-extensions     1.3.1
 ```
 
 Run preview 
