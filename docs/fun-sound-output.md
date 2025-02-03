@@ -43,6 +43,11 @@ View | Setting
 ![](media/SoundOutput-Theme-Dark.png) | Dark
 ![](media/SoundOutput-Theme-Auto.png) | Use system theme
 
-## Switch sound output hotkey
+### Speaker image
 
-Pressing the hotkey cycles through the sound outputs.
+Customize speaker image
+
+View | Setting
+:-- | :-- 
+![](media/SoundOutput-Speaker-Light.png) | The image is used when Windows is using the Light theme.
+![](media/SoundOutput-Speaker-Dark.png) | The image is used when Windows is using the Dark theme.
