@@ -1,4 +1,4 @@
-# AirPods 4
+# Beats Studio Pro
 
 {%
    include-markdown "features/aap-driver.md"
@@ -9,35 +9,7 @@
 %}
 
 {%
-   include-markdown "features/aap-personalised-volume.md"
-%}
-
-{%
-   include-markdown "features/aap-end-call-mute-mic.md"
-%}
-
-{%
-   include-markdown "features/aap-microphone.md"
-%}
-
-{%
-   include-markdown "features/aap-press-speed.md"
-%}
-
-{%
-   include-markdown "features/aap-press-and-hold-duration.md"
-%}
-
-{%
-   include-markdown "features/aap-tune-volume.md"
-%}
-
-{%
    include-markdown "features/apple-battery.md"
-%}
-
-{%
-   include-markdown "features/apple-ear-detection.md"
 %}
 
 {%
@@ -46,10 +18,6 @@
 
 {%
    include-markdown "features/general-low-audio-latency.md"
-%}
-
-{%
-   include-markdown "features/apple-auto-connect.md"
 %}
 
 {%
@@ -66,10 +34,6 @@
 
 {%
    include-markdown "features/general-low-battery-notification.md"
-%}
-
-{%
-   include-markdown "features/general-auto-switch-sound-output.md"
 %}
 
 {%

@@ -1,4 +1,4 @@
-# AirPods Max
+# AirPods Max 2024
 
 {%
    include-markdown "features/aap-driver.md"

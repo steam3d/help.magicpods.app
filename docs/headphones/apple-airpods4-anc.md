@@ -1,4 +1,4 @@
-# AirPods 4
+# AirPods 4 (ANC)
 
 {%
    include-markdown "features/aap-driver.md"
@@ -9,7 +9,19 @@
 %}
 
 {%
+   include-markdown "features/aap-noise-control.md"
+%}
+
+{%
+   include-markdown "features/aap-cycle-between.md"
+%}
+
+{%
    include-markdown "features/aap-personalised-volume.md"
+%}
+
+{%
+   include-markdown "features/aap-conversation-awareness.md"
 %}
 
 {%
@@ -26,6 +38,10 @@
 
 {%
    include-markdown "features/aap-press-and-hold-duration.md"
+%}
+
+{%
+   include-markdown "features/aap-anc-one-airpod.md"
 %}
 
 {%

@@ -13,6 +13,10 @@
 %}
 
 {%
+   include-markdown "features/aap-ear-detection-h2.md"
+%}
+
+{%
    include-markdown "features/aap-cycle-between.md"
 %}
 
