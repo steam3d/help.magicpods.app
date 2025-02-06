@@ -27,7 +27,7 @@ Below is a compatibility list of the most popular MagicPods features. The full l
 | [Beats Flex](headphones/apple-beatsflex.md)                                 |       ❌        |   👍    |                   ❌                    |                   ❌                    |
 | [Power Beats 3](headphones/apple-powerbeats3.md)                            |       ❌        |   👍    |                   ❌                    |                   ❌                    |
 | [Power Beats 4](headphones/apple-powerbeats4.md)                            |       ❌        |   👍    |                   ❌                    |                   ❌                    |
-| [Fake AirPods 3 Airoha 1562E](headphones/airoha-airpods3-1562e.md)          |       ⚠️        |   👍    |                   👍                    |                   👍                    |
+| [Fake AirPods 3 Airoha 1562E](headphones/airoha-airpods3-1562e.md)          |       ⚠️        |   👍    |                   👍                    |                   ❌                    |
 | [Fake AirPods Pro Airoha 1562AE](headphones/airoha-airpodspro-1562ae.md)    |       ⚠️        |   👍    |                   👍                    |                   👍                    |
 | [Fake AirPods Pro 2 Airoha 1562AE](headphones/airoha-airpodspro2-1562ae.md) |       ⚠️        |   👍    |                   👍                    |                   👍                    |
 | [Fake AirPods Pro 2 Airoha 1571AM](headphones/airoha-airpodspro2-1571am.md) |       ⚠️        |   👍    |                   👍                    |                   👍                    |
