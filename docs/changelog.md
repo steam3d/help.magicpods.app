@@ -1,3 +1,14 @@
+## 2.0.82.0 (20-02-2025)
+
+Meet Galaxy Buds support in MagicPods!
+
+- View the battery level of each earbud separately.
+- Control noise cancellation directly from the app.
+- Automatically switch to speakers when you take out your earbuds.
+- And many other useful features.
+
+All this is available on most Galaxy Buds models.
+
 ## 2.0.81.0 (13-01-2025)
 
 First Update of 2025: The app now supports right-to-left written languages!
