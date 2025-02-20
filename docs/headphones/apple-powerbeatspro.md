@@ -41,6 +41,10 @@
 %}
 
 {%
+   include-markdown "features/general-switch-sound-output-headphones.md"
+%}
+
+{%
    include-markdown "features/general-low-battery-notification.md"
 %}
 
