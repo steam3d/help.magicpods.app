@@ -91,7 +91,3 @@
 {%
    include-markdown "features/general-auto-switch-sound-output.md"
 %}
-
-{%
-   include-markdown "features/general-hotkey-connect.md"
-%}

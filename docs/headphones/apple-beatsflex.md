@@ -39,7 +39,3 @@
 {%
    include-markdown "features/general-low-battery-notification.md"
 %}
-
-{%
-   include-markdown "features/general-hotkey-connect.md"
-%}
