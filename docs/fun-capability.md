@@ -33,6 +33,15 @@ Below is a compatibility list of the most popular MagicPods features. The full l
 | [Fake AirPods Pro 2 Airoha 1571AM](headphones/airoha-airpodspro2-1571am.md) |       ⚠️        |   👍    |                   👍                    |                   👍                    |
 | [Sony WF1000XM3](headphones/sony-wf1000xm3.md)                              |       ❌        |   👍    |                   ❌                    |                   👍                    |
 | [Sony WH1000XM4](headphones/sony-wh1000xm4.md)                              |       ❌        |   👍    |                   ❌                    |                   👍                    |
+| [Galaxy Buds](headphones/galaxy-buds.md)                                    |       ❌        |   👍    |                   👍                    |                   ❌                    |
+| [Galaxy Buds Plus](headphones/galaxy-buds-plus.md)                          |       ❌        |   👍    |                   👍                    |                   ❌                    |
+| [Galaxy Buds Live](headphones/galaxy-buds-live.md)                          |       ❌        |   👍    |                   👍                    |                   👍                    |
+| [Galaxy Buds Pro](headphones/galaxy-buds-pro.md)                            |       ❌        |   👍    |                   👍                    |                   👍                    |
+| [Galaxy Buds 2](headphones/galaxy-buds-2.md)                                |       ❌        |   👍    |                   👍                    |                   👍                    |
+| [Galaxy Buds 2 Pro](headphones/galaxy-buds-2-pro.md)                        |       ❌        |   👍    |                   👍                    |                   👍                    |
+| [Galaxy Buds Fe](headphones/galaxy-buds-fe.md)                              |       ❌        |   👍    |                   👍                    |                   👍                    |
+| [Galaxy Buds 3](headphones/galaxy-buds-3.md)                                |       ❌        |   👍    |                   👍                    |                   👍                    |
+| [Galaxy Buds 3 Pro](headphones/galaxy-buds-3-pro.md)                        |       ❌        |   👍    |                   👍                    |                   👍                    |
 | [Other headphones](headphones/other-headphones.md)                          |       ❌        |   👍    |                   ❌                    |                   ❌                    |
 
 Most headphones can be added, but without your help it is not possible to do. 
