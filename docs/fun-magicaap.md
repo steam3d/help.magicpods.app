@@ -92,13 +92,15 @@ SHA256          E16A8F1C6052432A388D33FDD4AC6D4F3CA909CF4C3DD37A152DB0E9342B66C2
 2. Unzip the driver archive
 3. Press `Start` and type `Device Manager` in the search box
 4. In the search results, select `Device Manager`
-5. In `Device Manager`, find `AAP Server` in the `Other devices` section
+5. In `Device Manager`, find `AAP Server` or `AAP Client` (for certain AirPods) in the `Other devices` section
 6. Right-click on it and select `Update driver` from the context menu  
 ![](media/MagicAAP-Manual-Update-Driver.png)
 7. In the window that opens, click on `Browse my computer for drivers`, then specify the path to the driver folder  
 ![](media/MagicAAP-Manual-Update-Driver-Install.png)
 8. Click `Next`, the driver will be installed
-9. Repeat steps 5-8 for each `AAP Server` device
+9. Repeat steps 5-8 for each `AAP Server` or `AAP Client` (for certain AirPods) device
+
+> After installing the driver, you will find MagicAAP devices in the Bluetooth section of Device Manager.
 
 You're ready to go. Launch MagicPods and connect your AirPods. Expand the settings for the AirPods you want, and you'll see the familiar iPhone-like settings.
 
@@ -135,7 +137,7 @@ Keep the recovery codes in your phone, notebook, or on another computer because 
 ![](media/MagicAAP-Manual-Uninstall-Driver.png)
 5. Check `Attempt to remove the driver for this device.` and click `Uninstall`  
 ![](media/MagicAAP-Manual-Uninstall-Driver-Uninstall.png)
-6. Repeat steps 3-5 for each `AAP Server` device
+6. Repeat steps 3-5 for each `MagicAAP` device
 
 ### 3. Switch Windows to normal mode
 
