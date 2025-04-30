@@ -15,18 +15,20 @@ Below is a compatibility list of the most popular MagicPods features. The full l
 | [AirPods Pro 2](headphones/apple-airpodspro2.md)                            |       👍        |   👍    | 👍 [MagicAAP required](fun-magicaap.md) | 👍 [MagicAAP required](fun-magicaap.md) |
 | [AirPods Max](headphones/apple-airpodsmax.md)                               |       👍        |   👍    |                   👍                    | 👍 [MagicAAP required](fun-magicaap.md) |
 | [AirPods Max 2024](headphones/apple-airpodsmax2024.md)                      |       👍        |   👍    |                   👍                    | 👍 [MagicAAP required](fun-magicaap.md) |
-| [PowerBeats Pro](headphones/apple-powerbeatspro.md)                         |       👍        |   👍    |                   👍                    |                   ❌                    |
+| [Powerbeats Pro](headphones/apple-powerbeatspro.md)                         |       👍        |   👍    |                   👍                    |                   ❌                    |
+| [Powerbeats Pro 2](headphones/apple-powerbeatspro2.md)                      |       👍        |   👍    |                   👍                    | 👍 [MagicAAP required](fun-magicaap.md) |
 | [Beats Fit Pro](headphones/apple-beatsfitpro.md)                            |       👍        |   👍    |                   👍                    | 👍 [MagicAAP required](fun-magicaap.md) |
 | [Beats Studio Buds](headphones/apple-beatsstudiobuds.md)                    |       👍        |   👍    |                   ❌                    |                   ❌                    |
 | [Beats Studio Buds Plus](headphones/apple-beatsstudiobudsplus.md)           |       👍        |   👍    |                   ❌                    |                   ❌                    |
 | [Beats Studio Pro](headphones/apple-beatsstudiopro.md)                      |       👍        |   👍    |                   ❌                    |                   ❌                    |
 | [Beats Solo 3](headphones/apple-beatssolo3.md)                              |       ❌        |   👍    |                   ❌                    |                   ❌                    |
 | [Beats Solo Pro](headphones/apple-beatssolopro.md)                          |       ❌        |   👍    |                   ❌                    |                   ❌                    |
+| [Beats Solo Buds](headphones/apple-beatssolobuds.md)                        |       ❌        |   👍    |                   ❌                    |                   ❌                    |
 | [Beats Studio 3](headphones/apple-beatsstudio3.md)                          |       ❌        |   👍    |                   ❌                    |                   ❌                    |
 | [Beats X](headphones/apple-beatsx.md)                                       |       ❌        |   👍    |                   ❌                    |                   ❌                    |
 | [Beats Flex](headphones/apple-beatsflex.md)                                 |       ❌        |   👍    |                   ❌                    |                   ❌                    |
-| [Power Beats 3](headphones/apple-powerbeats3.md)                            |       ❌        |   👍    |                   ❌                    |                   ❌                    |
-| [Power Beats 4](headphones/apple-powerbeats4.md)                            |       ❌        |   👍    |                   ❌                    |                   ❌                    |
+| [Powerbeats 3](headphones/apple-powerbeats3.md)                            |       ❌        |   👍    |                   ❌                    |                   ❌                    |
+| [Powerbeats 4](headphones/apple-powerbeats4.md)                            |       ❌        |   👍    |                   ❌                    |                   ❌                    |
 | [Fake AirPods 3 Airoha 1562E](headphones/airoha-airpods3-1562e.md)          |       ⚠️        |   👍    |                   👍                    |                   ❌                    |
 | [Fake AirPods Pro Airoha 1562AE](headphones/airoha-airpodspro-1562ae.md)    |       ⚠️        |   👍    |                   👍                    |                   👍                    |
 | [Fake AirPods Pro 2 Airoha 1562AE](headphones/airoha-airpodspro2-1562ae.md) |       ⚠️        |   👍    |                   👍                    |                   👍                    |

@@ -1,3 +1,17 @@
+## 2.0.84.0 (30-04-2025)
+
+Added support for PowerBeats Pro 2 and Beats Solo Buds.
+
+Fixed:
+
+- Incorrect color display for AirPods Max for some users.
+- An issue where the AirPods battery status was not displayed when using MagicAAP.
+- Freezing of MagicPods when locking and unlocking the computer.
+- The pop-up animation not closing even after removing AirPods from the case.
+- Removed unsupported noise cancellation modes for Galaxy Buds, which caused freezing when switching modes.
+- Renamed some tooltips, buttons, and other interface elements.
+
+
 ## 2.0.82.0 (20-02-2025)
 
 Meet Galaxy Buds support in MagicPods!
