@@ -61,10 +61,13 @@ nav:
       - Audio streaming: fun-hotkeys-audio-streaming.md
     - 'Preferences':
       - Application settings: pref-app-settings.md
-    - Pair headphones: help-pairing-headphones.md
-    - Identify fake AirPods: info-fake-headphones.md 
 
-  - 'Resolving known issues':
+  - 'Help articles':
+    - H2 chip behavior: help-h2-chip.md
+    - Identify fake AirPods: info-fake-headphones.md
+    - Pair headphones: help-pairing-headphones.md
+
+  - 'Known issues':
     - Infinite search: issue-infinite-search.md
     - Poor sound and mic quality: issue-mic-low-quality.md
     - Startup disabled by group policy: issue-startup-disabled-by-group-policy.md
