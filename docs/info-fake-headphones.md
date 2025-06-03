@@ -12,28 +12,9 @@ The battery level on original AirPods is not displayed in Windows settings, nor 
 
 ![](media/Fake-Battery.png)
 
-## 2. Check the list of AirPods services
+## 2. Check the ear detection in Windows
 
-Original AirPods should display the following services:
-
-- AAP Server
-- Audio Sink
-- Handsfree Telephony
-- Remote Control
-- Remotely Controllable Device
-- UARPS (for AirPods with H2 chips)
-
-If there are services not listed above, the headphones are likely fake.
-
-To view the services:
-
-1. Go to the `Control Panel`.
-2. Right-click on `Devices and Printers` and select `Open`.
-3. Right-click on the name of your AirPods and select `Properties`, then go to the Services tab.
-
-In the screenshot below, `SerialPort` indicates that the headphones are fake.
-
-![](media/Fake-Services.png)
+Ear detection does not and should not work on Windows and Android. If media playback pauses when you remove an AirPod from your ear, the headphones are likely fake.
 
 ## 3. Check the MAC address
 
