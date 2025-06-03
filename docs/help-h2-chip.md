@@ -1,4 +1,4 @@
-# Feature behavior with H2 chip
+# Functions behavior with H2 chip
 
 Unlike the H1 chip, the H2 chip introduces changes to how the headphones operate:
 
@@ -13,4 +13,4 @@ These changes affect the behavior of certain features:
 | Auto switch sound output | Works with a slight delay                                   |
 
 !!! Tip
-    To access advanced features — such as noise control, accurate battery level, enhanced ear detection, conversation awareness, and more — install the original unsigned [MagicAAP](fun-magicaap.md) driver or the community-signed [MagicAAP (Community)](https://discord.com/channels/1083322534675632188/1372235563163320330).
+    To access advanced features — such as noise control, accurate battery level, enhanced ear detection, conversation awareness, and more — install the original unsigned [MagicAAP](fun-magicaap.md) driver or the community-signed [MagicAAP (Community)](https://discord.com/channels/1083322534675632188/1372235563163320330/1372235563163320330).
