@@ -1,3 +1,21 @@
+## 2.0.85.0 (17-06-2025)
+
+Improved application stability.
+
+Added:
+
+- Restored features: ear detection, auto switch sound output for AirPods and Beats headphones with the H2 chip.
+- Custom hotkeys for noise cancellation control.
+- Additional setting allowing selection of only the desired noise cancellation modes to be activated via hotkey.
+- The "Conversation Awareness" feature now automatically lowers the volume during conversations.
+- New feature: "Default Headphone Volume".
+
+Fixed:
+
+- Sometimes the battery level continued to display after disconnecting the headphones.
+- The order of noise cancellation modes is now consistent across all headphones.
+- Fixed an issue where the app could crash when frequently opening the headphone case.
+
 ## 2.0.84.0 (30-04-2025)
 
 Added support for PowerBeats Pro 2 and Beats Solo Buds.

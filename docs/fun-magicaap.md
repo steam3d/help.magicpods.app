@@ -1,16 +1,18 @@
-# MagicAAP driver
+# MagicAAP (Official) driver
 
 !!! warning
     Only install the MagicAAP driver if you are an advanced user and are prepared to reinstall Windows if problems occur. Requires MagicPods version 2.0.72.0 and above.
-    
-MagicAAP is a Bluetooth profile driver that allows you to add near-full support for all AirPods and some Beats headphones.
-
-![](media/MagicAAP-Driver-Sample.png)
 
 
 ## Installation
 
 The MagicAAP driver is not yet digitally signed, so you will need to switch Windows into test mode to install it. A message will appear in the bottom right corner of the screen indicating that Windows is in test mode.
+
+[Download](https://magicpods.app/utils/magicaap.zip){ .md-button .md-button--primary target=_blank}
+
+```
+SHA256          E16A8F1C6052432A388D33FDD4AC6D4F3CA909CF4C3DD37A152DB0E9342B66C2
+```
 
 ### 0. Create a restore point
 
@@ -69,13 +71,6 @@ bcdedit /set testsigning ON
 ![](media/MagicAAP-Bitlocker-Recovery.png)
 
 ### 4. Install the MagicAAP driver
-
-Optionally you can check the integrity of the [magicaap.zip](https://magicpods.app/utils/magicaap.zip)
-
-
-```
-SHA256          E16A8F1C6052432A388D33FDD4AC6D4F3CA909CF4C3DD37A152DB0E9342B66C2
-```
 
 #### Automatic installation
 

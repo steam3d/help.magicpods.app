@@ -2,7 +2,8 @@ site_name: MagicPods Help
 nav:
   - Getting started: index.md
   - Bluetooth: 'bt-bluetooth.md'
-  - MagicAAP driver: fun-magicaap.md
+  - MagicAAP (Official): fun-magicaap.md
+  - MagicAAP (Community): fun-magicaap-community.md
   - 'Features':
     - Live tiles: fun-live-tiles.md
     - Widgets: fun-widgets.md
@@ -114,6 +115,7 @@ extra_css:
 markdown_extensions:
   - admonition
   - attr_list
+  - sane_lists
   - toc:
       permalink: ⚓︎
       toc_depth: 4
