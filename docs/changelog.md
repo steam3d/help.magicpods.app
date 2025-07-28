@@ -1,3 +1,12 @@
+## 2.0.91.0 (28-07-2025)
+
+Support for Beats Solo 4 added
+
+Fixed:
+
+- Incorrect volume restoration at 100% or 0% when reading notifications
+- Rounding error in the "Tone volume" function
+
 ## 2.0.85.0 (17-06-2025)
 
 Improved application stability.
