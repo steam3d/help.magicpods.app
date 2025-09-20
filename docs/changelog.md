@@ -1,3 +1,7 @@
+## 2.0.92.0 (20-09-2025)
+
+🎉 Meet AirPods Pro 3 — now supported in MagicPods!
+
 ## 2.0.91.0 (28-07-2025)
 
 Support for Beats Solo 4 added
