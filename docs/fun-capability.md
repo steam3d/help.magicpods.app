@@ -13,6 +13,7 @@ Below is a compatibility list of the most popular MagicPods features. The full l
 | [AirPods 4 (ANC)](headphones/apple-airpods4-anc.md)                         |       👍        |   👍    | 👍 [MagicAAP required](fun-magicaap.md) | 👍 [MagicAAP required](fun-magicaap.md) |
 | [AirPods Pro](headphones/apple-airpodspro.md)                               |       👍        |   👍    |                   👍                    | 👍 [MagicAAP required](fun-magicaap.md) |
 | [AirPods Pro 2](headphones/apple-airpodspro2.md)                            |       👍        |   👍    | 👍 [MagicAAP required](fun-magicaap.md) | 👍 [MagicAAP required](fun-magicaap.md) |
+| [AirPods Pro 3](headphones/apple-airpodspro3.md)                            |       👍        |   👍    | 👍 [MagicAAP required](fun-magicaap.md) | 👍 [MagicAAP required](fun-magicaap.md) |
 | [AirPods Max](headphones/apple-airpodsmax.md)                               |       👍        |   👍    |                   👍                    | 👍 [MagicAAP required](fun-magicaap.md) |
 | [AirPods Max 2024](headphones/apple-airpodsmax2024.md)                      |       👍        |   👍    |                   👍                    | 👍 [MagicAAP required](fun-magicaap.md) |
 | [Powerbeats Pro](headphones/apple-powerbeatspro.md)                         |       👍        |   👍    |                   👍                    |                   ❌                    |
