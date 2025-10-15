@@ -1,7 +1,7 @@
 # MagicAAP (Community) driver
 
-!!! warning
-    Requires MagicPods version 2.0.72.0 and above. Please don’t forget to create a system restore point.
+!!! failure
+    The MagicAAP (Community) driver can no longer be installed after the October 2025 Windows update. Please use the [official unsigned version of the driver](fun-magicaap.md) instead.
 
 The MagicAAP (Community) driver is the same version as [MagicAAP (Official)](fun-magicaap.md), but it was signed using a workaround by a member of our [community](https://discord.com/invite/UyY4PY768V).
 
