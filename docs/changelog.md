@@ -1,3 +1,64 @@
+## 2.0.93.0 (05-11-2025)
+
+🎉 Added Beats Pill support
+
+New features:
+
+Powerbeats Pro 2:
+
+- noise cancellation control
+- precise battery level
+- heart rate sensor
+- headphone renaming
+- ear detection
+- press & hold action configuration
+- configuration of noise cancellation modes on the earbuds
+- noise cancellation with one earbud
+- call button settings
+- microphone position
+- headphone sounds volume
+- case sounds volume
+  
+Powerbeats Fit:
+
+- noise cancellation control
+- precise battery level
+- headphone renaming
+- ear detection
+- press & hold action configuration
+- configuration of noise cancellation modes on the earbuds
+- noise cancellation with one earbud
+- call button settings
+- microphone position
+- headphone sounds volume
+
+Beats Studio Pro:
+
+- noise cancellation control
+- precise battery level
+- headphone renaming
+- call button settings
+- configuration of noise cancellation modes on the headphones
+
+Beats Pill:
+
+- precise battery level
+- speaker renaming
+- speaker system sounds volume
+
+Added:
+
+- Quick Sand color for Powerbeats Pro 2
+
+Fixed:
+
+- when launching with already connected headphones, the tray icon could show an incorrect active audio device status
+- typos and small errors for all languages fixed
+- hidden noise cancellation modes not supported by specific models
+- restored wind noise reduction mode for Sony headphones when switching via hotkeys
+- Added a hint in case the auto-launch feature is not available on the device
+
+
 ## 2.0.92.0 (20-09-2025)
 
 🎉 Meet AirPods Pro 3 — now supported in MagicPods!
