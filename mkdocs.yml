@@ -73,7 +73,7 @@ nav:
     - Infinite search: issue-infinite-search.md
     - Poor sound and mic quality: issue-mic-low-quality.md
     - Startup disabled by group policy: issue-startup-disabled-by-group-policy.md
-    - Infinite disconnect: issue-infinite-disconnect.md
+#    - Infinite disconnect: issue-infinite-disconnect.md
     - AirPods status not updating: issue-airpods-status-not-updating.md
     - Tray icon is too dark: issue-theme.md
     - Connectivity issues: issue-connectivity.md

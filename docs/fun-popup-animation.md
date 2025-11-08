@@ -11,10 +11,13 @@ Compatible with:
 - AirPods 3
 - AirPods Pro
 - AirPods Pro 2
+- AirPods Pro 3
 - AirPods Max
+- AirPods Max 2024
 - Beats Fit Pro
 - Beats Studio Buds
 - PowerBeats Pro
+- PowerBeats Pro 2
 
 ### Windows size
 
@@ -52,6 +55,9 @@ View | Setting
 
 ### AirPods Search Radius
 
+!!! tip
+    In addition, over time, the application can most suggest optimal settings.
+
 If you have trouble with popup window it does not appear or randomly appears you need setup the AirPods search radius.
 
 1. Turn on Bluetooth
@@ -60,11 +66,9 @@ If you have trouble with popup window it does not appear or randomly appears you
 4. Open your case with AirPods inside near your pc and slowly slide the slider to the right until a popup window appears
 5. If popup window not always appears slide the slider on one step to the right
 
-!!! tip
-    In addition, over time, the application can most suggest optimal settings.
-
 ### Show window for fake AirPods
 
-Show or hide pop-up window for fake AirPods if they are in the list of Bluetooth devices.
+!!! note
+    Fake AirPods does not provide battery information while displaying the popup.
 
-> Fake AirPods does not provide battery information while displaying the popup.
+Show or hide pop-up window for fake AirPods if they are in the list of Bluetooth devices.

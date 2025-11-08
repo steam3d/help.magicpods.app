@@ -16,14 +16,14 @@ VoiceOver required access to notification to get notification's text to VoiceOve
 
 ### Add a new voice
 
+!!! info
+    If AirPods are already connected, disconnect and connect AirPods or restart the MagicPods to apply selected voice.
+
 1. Open Narrator Settings by pressing the `Windows logo key  + Ctrl + N`
 2. Under `Personalize Narrator’s voice`, select `Add more voices`. This will take you to the Speech settings page
 3. Under `Manage voices`, select `Add voices`
 4. Select the language you would like to install voices for and select `Add`. The new voices will download and be ready for use in a few minutes, depending on your internet download speed
 5. `Close the MagicPods` window and `open` it again to update voices data
-
-!!! info
-    If AirPods are already connected, disconnect and connect AirPods or restart the MagicPods to apply selected voice.
 
 ### Add an app to list notification apps
 

@@ -4,6 +4,7 @@ There are 3 reasons for this error:
 
 1. Bluetooth Dongle has Bluetooth version below 4.0
 2. The windows doesn't allow access to Bluetooth
+3. Bluetooth does not support LE.
 
 ## Bluetooth Dongle has Bluetooth version below 4.0
 
@@ -17,6 +18,3 @@ Usually those steeps can help:
 - Turn off / on bluetooth
 - Reboot your PC
 - Try update bluetooth drivers
-
-!!! warning
-    This error can't be fixed programmatically.

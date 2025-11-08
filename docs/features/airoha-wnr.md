@@ -1,10 +1,15 @@
 ## Wind noise reduction
 
-Reduces wind noise, not sure what mode it is used for. Presumably affects noise reduction. Required AirPods factory reset to apply.
+Reduces wind noise, not sure what mode it is used for. Presumably affects noise reduction.
+
+| Option | Description |
+| ------ | ----------- |
+| On     | —           |
+| Off    | —           |
+
+Required AirPods factory reset to apply.
 
 ## Wind noise reduction sensitivity
-
-The following options are available:
 
 | Option | Description |
 | ------ | ----------- |

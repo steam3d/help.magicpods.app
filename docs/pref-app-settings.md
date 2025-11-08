@@ -1,8 +1,9 @@
 ## Theme
 
-Customize theme of main window and tray menu. Does not apply to pop-up windows.
+!!! tip
+    To customize the popup theme, change the theme parameter [Pop-up window](fun-popup-animation.md) or [Sound output](fun-sound-output.md)
 
-> To customize the popup theme, change the theme parameter [Pop-up window](fun-popup-animation.md) or [Sound output](fun-sound-output.md)
+Customize theme of main window and tray menu. Does not apply to pop-up windows.
 
 ## Language
 
@@ -26,9 +27,10 @@ Customize the debug log level.  Logs are recorded locally only.
 
 ### Show log files
 
-The folder icon button opens a temporary folder containing application logs.
+!!! warning
+    Do not delete files while the application is running
 
-> Do not delete files while the application is running
+The folder icon button opens a temporary folder containing application logs.
 
 ## Reset to default settings
 

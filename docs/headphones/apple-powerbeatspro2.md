@@ -8,6 +8,8 @@
    include-markdown "features/aap-battery.md"
 %}
 
+---
+
 {%
    include-markdown "features/aap-noise-control.md"
 %}

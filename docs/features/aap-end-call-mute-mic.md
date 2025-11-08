@@ -1,6 +1,6 @@
 ### End call/Mute and unmute
 
-Call and microphone control during a call
+Call and microphone control during a call.
 
 | Option                 | Description                                           |
 | ---------------------- | ----------------------------------------------------- |

@@ -20,6 +20,8 @@
    include-markdown "features/apple-fast-search.md"
 %}
 
+---
+
 {%
    include-markdown "features/general-low-audio-latency.md"
 %}

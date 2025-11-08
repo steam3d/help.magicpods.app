@@ -6,4 +6,4 @@ Adjust the speed required to press two or three times on your AirPods.
 | ------- | ----------- |
 | Default | —           |
 | Slower  | —           |
-| Slowest | -           |
+| Slowest | —           |

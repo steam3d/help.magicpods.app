@@ -1,5 +1,9 @@
 # Infinite disconnect
 
+!!! note
+    Deprecated after the MagicPods 2.0.0.0 update. 
+
+
 The MagicPods continuously disconnects and connects AirPods. The problem is related to the bluetooth drivers.
 
 ![](media/InfiniteSearch.gif)

@@ -17,10 +17,6 @@
 %}
 
 {%
-   include-markdown "features/general-hotkey-switch-anc.md"
-%}
-
-{%
    include-markdown "features/airoha-head-tracking.md"
 %}
 

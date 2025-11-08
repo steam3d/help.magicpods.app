@@ -1,9 +1,9 @@
 ## Hide icon
 
+!!! note
+    MagicPods will continue to run in the background. To close the application, use the "Close MagicPods" button.
+
 Hide the icon in the system tray.
-
-> MagicPods will continue to run in the background. To close the application, use the "Close MagicPods" button.
-
 
 ## Show battery percentage
 
@@ -14,7 +14,7 @@ Displays the average battery percentage of connected headphones. To find out the
 | On     | ![](media/trayicons/AnalogSingleBattery100.png) | The icon displays the charge level of the headphones or the last connected headphones (if more than two headphones are connected). |
 | Off    | ![](media/trayicons/Connected.png)              | The icon displays a small indication that the headphones are connected.                                                            |
 
-> The left earbud has 25%, and the right earbud 45%. The icon will display a battery level of 35%.
+Example: The left earbud has 25%, and the right earbud 45%. The icon will display a battery level of 35%.
 
 ### Style
 
@@ -90,6 +90,12 @@ Additional settings when the `Analog` style is selected.
 ## Display sound output change
 
 The icon becomes transparent when the audio output is changed to the computer speakers. 
+
+| Icon                                        | Description                               |
+| ------------------------------------------- | ----------------------------------------- |
+| ![](media/trayicons/SoundOutHeadphones.png) | Sound output is set to headphones.        |
+| ![](media/trayicons/SoundOutSpeaker.png)    | Sound output is set to external speakers. |
+
 
 ### Opacity
 | Option | Description                                            |

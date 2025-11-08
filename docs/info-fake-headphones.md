@@ -1,6 +1,6 @@
 # How to Identify Fake AirPods
 
-These methods will help determine whether AirPods are fake. Note that only the third method applies to Beats.
+These methods will help determine whether AirPods are fake.
 
 ## 1. Check the battery indicator in Windows settings
 

@@ -10,6 +10,8 @@ Sets the action when you press and hold the stem of an AirPod Pro.
 
 ## Right AirPod press and hold
 
+Sets the action when you press and hold the stem of an AirPod Pro.
+
 | Option                        | Description |
 | ----------------------------- | ----------- |
 | Voice assistant               | —           |

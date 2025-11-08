@@ -13,7 +13,8 @@
 %}
 
 {%
-   include-markdown "features/aap-ear-detection-h2.md"
+   include-markdown "features/apple-ear-detection.md"
+   heading-offset=1
 %}
 
 {%
@@ -51,6 +52,8 @@
 {%
    include-markdown "features/aap-tune-volume.md"
 %}
+
+---
 
 {%
    include-markdown "features/apple-battery.md"

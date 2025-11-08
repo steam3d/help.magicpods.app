@@ -6,4 +6,4 @@ Adjust the duration required to press and hold on your AirPods.
 | -------- | ----------- |
 | Default  | —           |
 | Shorter  | —           |
-| Shortest | -           |
+| Shortest | —           |

@@ -1,5 +1,8 @@
 ## Ear detection
 
+!!! Tip
+    Set `Auto switch audio output` to switch to the speakers when the headphones are removed.
+
 Allows you automatically pause and resume playing media content and decrease volume when you remove and insert the earbud into your ear.
 
 | Option                                | Description                                                                                                                                 |
@@ -13,10 +16,10 @@ Ear Detection supports multiple headphone connections. You can connect AirPods a
 
 For instance, if you are listening to music with AirPods and remove both earbuds, the playback will pause. If you then put on AirPods Max, the playback will automatically resume.
 
-!!! Tip
-    Set `Auto switch audio output` to switch to the speakers when the headphones are removed.
-
 ### Available media players
+
+!!! note
+    Sometimes KuGou media player doesn't react on Play / Pause command. Restart KuGou can fix this.
 
 Ear Detection supports all players with system media control:
 
@@ -35,11 +38,12 @@ The following players are additionally supported:
 * PotPlayer
 * MPV
 
-!!! note
-    Sometimes KuGou media player doesn't react on Play / Pause command. Restart KuGou can fix this.
+### Ear detection volume
 
-### Set decrease volume
+The volume will be reduced to the selected volume while the feature is active. 
 
-Set the percentage to which the current volume will be reduced. Calculated by the formula `headphone volume * (decrease volume / 100)`.
+| Option   | Description                                                |
+| -------- | ---------------------------------------------------------- |
+| 0 - 100% | 0% — mute the sound completely, 100% — leave it unchanged. |
 
 ![](../media/screenshots/headphones-descrease-volume.gif)

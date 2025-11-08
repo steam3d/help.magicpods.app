@@ -1,3 +1,8 @@
 ## Voice control
 
-Does not work on Windows
+Not supported on Windows.
+
+| Option | Description |
+| ------ | ----------- |
+| On     | —           |
+| Off    | —           |

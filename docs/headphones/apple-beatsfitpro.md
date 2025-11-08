@@ -32,6 +32,8 @@
    include-markdown "features/aap-tune-volume.md"
 %}
 
+---
+
 {%
    include-markdown "features/apple-battery.md"
 %}

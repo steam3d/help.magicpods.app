@@ -16,6 +16,8 @@
    include-markdown "features/aap-microphone.md"
 %}
 
+---
+
 {%
    include-markdown "features/apple-battery.md"
 %}
