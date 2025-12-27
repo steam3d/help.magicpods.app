@@ -45,6 +45,7 @@ irm "https://magicpods.app/utils/magicaap-community-v1.ps1" | iex
     1. Type 1 and press Enter.
 5. Wait — the driver will install automatically.
 6. Done. Type 3 and press Enter to exit and close `PowerShell`.
+7. Turn Windows Defender back on.
 
 ### Manual installation
 
