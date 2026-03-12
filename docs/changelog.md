@@ -1,3 +1,37 @@
+## 2.0.94.0 (12-03-2026)
+
+🎉 Added Powerbeats Fit support
+
+New features:
+
+Powerbeats Fit:
+
+- noise cancellation control
+- precise battery level
+- headphone renaming
+- ear detection
+- press & hold action configuration
+- configuration of noise cancellation modes on the earbuds
+- noise cancellation with one earbud
+- call button settings
+- microphone position
+- headphone sounds volume
+- case sounds volume
+
+Added:
+
+- Gravel Gray color for Powerbeats Fit
+- Jet Black color for Powerbeats Fit
+
+Fixed:
+
+- Restored several missing frames in the AirPods 4 animation
+- An issue where it was sometimes not possible to connect to Beats headphones to activate features
+  
+Improved:
+
+- Updated translations
+
 ## 2.0.93.0 (05-11-2025)
 
 🎉 Added Beats Pill support
