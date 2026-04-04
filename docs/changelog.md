@@ -1,3 +1,38 @@
+## 2.0.94.0 (03-04-2026)
+
+🎉 Added support for AirPods Max 2 (2026)
+
+New features:
+
+AirPods Max 2:
+
+- Headphone animation
+- Battery level
+- Ear detection
+- Automatic audio output switching when removing headphones
+
+AirPods Max 2 with MagicAAP:
+
+- Noise cancellation control
+- Precise battery level
+- Improved ear detection
+- Press-and-hold action configuration
+- Configuration of noise cancellation modes on the headphones
+- Call button settings
+- Conversation Awareness
+- Personalized Volume
+- Digital Crown support
+- Tone volume control
+
+Added:
+
+- Starlight color for AirPods Max 2
+- Midnight color for AirPods Max 2
+
+Improved:
+
+- Updated translations
+
 ## 2.0.94.0 (12-03-2026)
 
 🎉 Added Powerbeats Fit support

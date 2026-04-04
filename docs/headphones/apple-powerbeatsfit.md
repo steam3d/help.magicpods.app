@@ -1,10 +1,8 @@
-# Powerbeats Pro 2
+# Powerbeats Fit
 
 {%
    include-markdown "features/aap-driver.md"
 %}
-
----
 
 {%
    include-markdown "features/aap-battery.md"
@@ -33,6 +31,8 @@
 {%
    include-markdown "features/aap-tune-volume.md"
 %}
+
+---
 
 {%
    include-markdown "features/apple-battery.md"
