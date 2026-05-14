@@ -1,5 +1,8 @@
 # MagicAAP (Community) driver
 
+!!! failure
+    Starting with the [April 2026 security update](https://support.microsoft.com/en-us/windows/the-windows-driver-policy-ecd2a78c-750c-415d-93f2-e37302ce0443), Windows blocks all drivers that are not signed by Microsoft. If you have already updated your Windows, please use [MagicAAP (Official)](fun-magicaap.md). 
+
 !!! info
     Requires MagicPods version 2.0.72.0 and above. Please don’t forget to create a system restore point.
 
