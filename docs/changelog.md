@@ -1,3 +1,18 @@
+## 2.0.94.0 (20-07-2026)
+
+Beta support added for the following Galaxy Buds models:
+- Galaxy Buds 4
+- Galaxy Buds 4 Pro
+- Galaxy Buds 3 FE
+- Galaxy Buds Core
+
+Fixed:
+- The interface could freeze when the app was opened while headphones were connecting.
+- Restored Adaptive Noise Control for AirPods Max 2.
+- Audio output switching was not applied for Beats Pill.
+
+Updated translations.
+
 ## 2.0.94.0 (03-04-2026)
 
 🎉 Added support for AirPods Max 2 (2026)
