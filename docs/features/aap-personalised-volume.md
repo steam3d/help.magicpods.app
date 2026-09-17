@@ -1,4 +1,4 @@
-### Personalised volume
+## Personalised volume
 
 Adjust the volume of media in response to your environment.
 
@@ -6,3 +6,5 @@ Adjust the volume of media in response to your environment.
 | -------- | ----------- |
 | On       | —           |
 | Off      | —           |
+
+<!-- table-end -->

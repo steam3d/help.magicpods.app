@@ -6,3 +6,5 @@ Send the "Play" command after connecting the headphones. If there are no open pl
 | ------ | ----------- |
 | On     | —           |
 | Off    | —           |
+
+<!-- table-end -->

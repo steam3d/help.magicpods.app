@@ -10,3 +10,5 @@ Show a notification when the headphone charge is below the specified value. The 
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Enable  | Slide the slider to the necessary value. When the charge level of headphones will be the same as the value or below the notification will appear. |
 | Disable | Slide the slider to the left until the value text changed to `off`                                                                                | 
+
+<!-- table-end -->

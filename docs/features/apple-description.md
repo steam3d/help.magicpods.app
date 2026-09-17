@@ -1,0 +1,1 @@
+Standard mode works out of the box and requires no additional setup.

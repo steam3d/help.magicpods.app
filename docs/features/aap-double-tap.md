@@ -1,4 +1,4 @@
-### Double tap left AirPod
+## Double tap left AirPod
 
 Action when you double-tap an AirPod headphone.
 
@@ -10,7 +10,7 @@ Action when you double-tap an AirPod headphone.
 | Previous track | —                         |
 | Off            | —                         |
 
-### Double tap right AirPod
+## Double tap right AirPod
 
 Action when you double-tap an AirPod headphone.
 
@@ -21,3 +21,5 @@ Action when you double-tap an AirPod headphone.
 | Next track     | —                         |
 | Previous track | —                         |
 | Off            | —                         |
+
+<!-- table-end -->

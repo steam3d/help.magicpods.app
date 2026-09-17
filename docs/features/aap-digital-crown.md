@@ -1,4 +1,4 @@
-### Digital crown
+## Digital crown
 
 Select the direction to change the volume when the Digital crown movement.
 
@@ -6,3 +6,5 @@ Select the direction to change the volume when the Digital crown movement.
 | ------------------ | ------------------ |
 | Back to front      | —                  |
 | Front to back      | —                  |
+
+<!-- table-end -->

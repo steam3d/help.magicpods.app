@@ -6,3 +6,5 @@ Force the sound output to switch to the headphones after connection. This option
 | ------ | ----------- |
 | On     | —           |
 | Off    | —           |
+
+<!-- table-end -->

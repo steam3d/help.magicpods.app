@@ -1,4 +1,4 @@
-### Conversation awareness 
+## Conversation awareness 
 
 Lowers media volume and reduces background noise when you start speaking to other people. 
 
@@ -6,3 +6,5 @@ Lowers media volume and reduces background noise when you start speaking to othe
 | -------- | ----------- |
 | On       | —           |
 | Off      | —           |
+
+<!-- table-end -->

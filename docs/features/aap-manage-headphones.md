@@ -1,4 +1,4 @@
-### Manage headphones 
+## Manage headphones 
 
 When headphones are connected, the options below apply.
 
@@ -6,3 +6,5 @@ When headphones are connected, the options below apply.
 | -------- | ----------- |
 | On       | —           |
 | Off      | —           |
+
+<!-- table-end -->

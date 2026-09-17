@@ -14,3 +14,4 @@ These changes affect the behavior of certain features:
 | ------------------------ | ----------------------------------------------------------- |
 | Ear detection            | Works only when the `active` earbud is removed from the ear |
 | Auto switch sound output | Works with a slight delay                                   |
+| Auto connect             | Sometimes detection may be incorrect                        |

@@ -1,4 +1,4 @@
-### Noise control
+## Noise control
 
 Switch between noise reduction modes when AirPods are worn.
 
@@ -8,3 +8,5 @@ Switch between noise reduction modes when AirPods are worn.
 | Transparency       | —                                             |
 | Adaptive           | AirPods Pro 2, AirPods Pro 3, AirPods 4 (ANC) |
 | Noise cancellation | —                                             |
+
+<!-- table-end -->

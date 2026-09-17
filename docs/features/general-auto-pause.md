@@ -6,3 +6,5 @@ Pause playback after disconnecting headphones. Disconnecting headphones using Ma
 | ------ | ----------- |
 | On     | —           |
 | Off    | —           |
+
+<!-- table-end -->

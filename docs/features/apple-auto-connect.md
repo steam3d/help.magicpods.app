@@ -6,3 +6,5 @@ Automatically connect to headphones when you take the right or left earbud out o
 | ------ | ----------- |
 | On     | —           |
 | Off    | —           |
+
+<!-- table-end -->

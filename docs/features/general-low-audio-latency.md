@@ -9,3 +9,5 @@ Reduces the delay between frequent switching on (play) and off (pause) of the so
 | ------ | ----------- |
 | On     | —           |
 | Off    | —           |
+
+<!-- table-end -->
