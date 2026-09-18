@@ -9,6 +9,10 @@
 %}
 
 {%
+    include-markdown "features/general-cycle-between-hotkey.md"
+%}
+
+{%
    include-markdown "features/general-low-audio-latency.md"
 %}
 

@@ -77,6 +77,10 @@
     %}
 
     {%
+    include-markdown "features/general-cycle-between-hotkey.md"
+    %}
+
+    {%
         include-markdown "features/aap-personalised-volume.md"
     %}
 

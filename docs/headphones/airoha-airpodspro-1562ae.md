@@ -17,6 +17,10 @@
 %}
 
 {%
+   include-markdown "features/general-cycle-between-hotkey.md"
+%}
+
+{%
    include-markdown "features/airoha-head-tracking.md"
 %}
 

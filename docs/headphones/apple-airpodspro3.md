@@ -74,6 +74,10 @@
     %}
 
     {%
+        include-markdown "features/general-cycle-between-hotkey.md"
+    %}
+
+    {%
         include-markdown "features/aap-cycle-between.md"
     %}
 

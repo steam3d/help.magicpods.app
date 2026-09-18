@@ -19,6 +19,10 @@
     %}
 
     {%
+        include-markdown "features/general-cycle-between-hotkey.md"
+    %}
+
+    {%
         include-markdown "features/beats-rename.md"
     %}
 
@@ -86,6 +90,10 @@
 
     {%
         include-markdown "features/aap-noise-control.md"
+    %}
+
+    {%
+        include-markdown "features/general-cycle-between-hotkey.md"
     %}
 
     {%

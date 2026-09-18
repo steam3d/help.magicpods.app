@@ -19,6 +19,10 @@
     %}
 
     {%
+        include-markdown "features/general-cycle-between-hotkey.md"
+    %}
+
+    {%
         include-markdown "features/beats-rename.md"
     %}
 
