@@ -33,6 +33,10 @@ The headphones support multiple operating modes. Mode priority: Beats → Standa
     %}
 
     {%
+    include-markdown "features/general-default-headphone-volume.md"
+    %}
+
+    {%
     include-markdown "features/general-auto-disable-hfp.md"
     %}
 
@@ -68,6 +72,10 @@ The headphones support multiple operating modes. Mode priority: Beats → Standa
 
     {%
         include-markdown "features/general-auto-pause.md"
+    %}
+
+    {%
+        include-markdown "features/general-default-headphone-volume.md"
     %}
 
     {%

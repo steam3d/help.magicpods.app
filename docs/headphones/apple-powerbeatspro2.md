@@ -79,6 +79,10 @@
     %}
 
     {%
+        include-markdown "features/general-default-headphone-volume.md"
+    %}
+
+    {%
         include-markdown "features/general-auto-disable-hfp.md"
     %}
 
@@ -145,6 +149,10 @@
     %}
 
     {%
+        include-markdown "features/general-default-headphone-volume.md"
+    %}
+
+    {%
         include-markdown "features/general-auto-disable-hfp.md"
     %}
 
@@ -192,6 +200,10 @@
 
     {%
         include-markdown "features/general-auto-pause.md"
+    %}
+
+    {%
+        include-markdown "features/general-default-headphone-volume.md"
     %}
 
     {%
