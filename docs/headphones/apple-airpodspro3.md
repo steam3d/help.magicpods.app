@@ -47,11 +47,15 @@
     %}
 
     {%
+        include-markdown "features/general-switch-sound-output-headphones.md"
+    %}
+
+    {%
         include-markdown "features/general-low-battery-notification.md"
     %}
 
     {%
-        include-markdown "features/general-switch-sound-output-headphones.md"
+        include-markdown "features/general-auto-switch-sound-output.md"
     %}
 
 
@@ -126,9 +130,13 @@
     %}
 
     {%
+        include-markdown "features/general-switch-sound-output-headphones.md"
+    %}
+
+    {%
         include-markdown "features/general-low-battery-notification.md"
     %}
 
     {%
-        include-markdown "features/general-switch-sound-output-headphones.md"
+        include-markdown "features/general-auto-switch-sound-output.md"
     %}
