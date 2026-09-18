@@ -15,11 +15,39 @@
     %}
 
     {%
+        include-markdown "features/beats-noise-control.md"
+    %}
+
+    {%
         include-markdown "features/beats-rename.md"
     %}
 
     {%
-        include-markdown "features/beats-noise-control.md"
+        include-markdown "features/beats-ear-detection.md"
+    %}
+
+    {%
+        include-markdown "features/beats-press-and-hold-duration.md"
+    %}
+
+    {%
+        include-markdown "features/beats-cycle-between.md"
+    %}
+
+    {%
+        include-markdown "features/beats-anc-one-airpod.md"
+    %}
+
+    {%
+        include-markdown "features/beats-end-call-mute-mic.md"
+    %}
+
+    {%
+        include-markdown "features/beats-microphone.md"
+    %}
+
+    {%
+        include-markdown "features/beats-tune-volume.md"
     %}
 
     {%
@@ -28,34 +56,6 @@
 
     {%
         include-markdown "features/beats-case-sounds-volume.md"
-    %}
-
-    {%
-        include-markdown "features/beats-ear-detection.md"
-    %}
-
-    {%
-        include-markdown "features/beats-microphone.md"
-    %}
-
-    {%
-        include-markdown "features/beats-end-call-mute-mic.md"
-    %}
-
-    {%
-        include-markdown "features/beats-anc-one-airpod.md"
-    %}
-
-    {%
-        include-markdown "features/beats-cycle-between.md"
-    %}
-
-    {%
-        include-markdown "features/beats-press-and-hold-duration.md"
-    %}
-
-    {%
-        include-markdown "features/beats-tune-volume.md"
     %}
 
     {%

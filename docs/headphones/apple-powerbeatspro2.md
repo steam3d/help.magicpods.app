@@ -15,19 +15,7 @@
     %}
 
     {%
-        include-markdown "features/beats-rename.md"
-    %}
-
-    {%
         include-markdown "features/beats-noise-control.md"
-    %}
-
-    {%
-        include-markdown "features/beats-case-sounds.md"
-    %}
-
-    {%
-        include-markdown "features/beats-case-sounds-volume.md"
     %}
 
     {%
@@ -35,11 +23,7 @@
     %}
 
     {%
-        include-markdown "features/beats-microphone.md"
-    %}
-
-    {%
-        include-markdown "features/beats-end-call-mute-mic.md"
+        include-markdown "features/beats-rename.md"
     %}
 
     {%
@@ -51,7 +35,7 @@
     %}
 
     {%
-        include-markdown "features/beats-tune-volume.md"
+        include-markdown "features/beats-cycle-between.md"
     %}
 
     {%
@@ -59,7 +43,23 @@
     %}
 
     {%
-        include-markdown "features/beats-cycle-between.md"
+        include-markdown "features/beats-end-call-mute-mic.md"
+    %}
+
+    {%
+        include-markdown "features/beats-microphone.md"
+    %}
+
+    {%
+        include-markdown "features/beats-tune-volume.md"
+    %}
+
+    {%
+        include-markdown "features/beats-case-sounds.md"
+    %}
+
+    {%
+        include-markdown "features/beats-case-sounds-volume.md"
     %}
 
     {%

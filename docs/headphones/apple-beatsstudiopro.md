@@ -15,11 +15,11 @@
     %}
 
     {%
-        include-markdown "features/beats-rename.md"
+        include-markdown "features/beats-noise-control.md"
     %}
 
     {%
-        include-markdown "features/beats-noise-control.md"
+        include-markdown "features/beats-rename.md"
     %}
 
     {%
