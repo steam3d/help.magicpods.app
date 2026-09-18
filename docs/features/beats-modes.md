@@ -1,0 +1,1 @@
+The headphones support multiple operating modes. Mode priority: Beats → MagicAAP → Standard. Mode changes take effect after restarting the app, provided the required conditions are met.
