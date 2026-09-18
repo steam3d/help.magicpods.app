@@ -42,7 +42,6 @@
         include-markdown "features/general-low-battery-notification.md"
     %}
 
-
 === "MagicAAP"
 
     {%
