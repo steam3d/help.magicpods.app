@@ -1,3 +1,21 @@
+## 2.0.99.0 (21-09-2026)
+
+Introducing support for the new AirPods 5.
+
+Fixed:
+
+- The language list is now sorted alphabetically.
+
+Added languages:
+
+- Bengali
+- Czech
+- Gujarati
+- Albanian
+- Telugu
+
+Updated translations.
+
 ## 2.0.98.0 (20-07-2026)
 
 Beta support added for the following Galaxy Buds models:
