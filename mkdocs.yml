@@ -119,6 +119,7 @@ theme:
   features:
     - navigation.expand
     - navigation.top
+    - content.code.copy
 
 extra_css:
   - stylesheets/extra.css

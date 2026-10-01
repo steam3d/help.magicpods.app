@@ -1,16 +1,45 @@
 # MagicAAP (Community) driver
 
-!!! failure
-    Starting with the [April 2026 security update](https://support.microsoft.com/en-us/windows/the-windows-driver-policy-ecd2a78c-750c-415d-93f2-e37302ce0443), Windows blocks all drivers that are not signed by Microsoft. If you have already updated your Windows, please use [MagicAAP (Official)](fun-magicaap.md). 
-
 !!! info
     Requires MagicPods version 2.0.72.0 and above. Please don’t forget to create a system restore point.
 
-The MagicAAP (Community) driver is the same version as [MagicAAP (Official)](fun-magicaap.md), but it was signed using a workaround by a member of our [community](https://discord.com/invite/UyY4PY768V).
+MagicAAP (Community) is identical to the [MagicAAP (Official)](fun-magicaap.md), but was signed by a community member using a [workaround](https://discord.com/channels/1083322534675632188/1445078913767444511). It may be flagged by Windows Defender or detected by some anti-cheat systems.
 
-As a downside, Windows Defender may flag the driver as potentially unwanted software, and some game anti-cheat systems might detect it.
+## Before Installation
 
-You can read more about the discussion [here](https://discord.com/channels/1083322534675632188/1445078913767444511).
+If you have installed the [April 2026 Windows Security Update or later](https://support.microsoft.com/en-us/windows/the-windows-driver-policy-ecd2a78c-750c-415d-93f2-e37302ce0443), the new Windows Driver Policy may prevent the driver from loading. The policy must remain disabled while using the driver.
+
+### Disable Policy
+
+1. Open PowerShell as Administrator:
+    1. Click the Start button.
+    2. Type PowerShell.
+    3. Right-click on the result.
+    4. Select `Run as administrator`.
+2. Enter the following command and press Enter:
+
+```powershell
+if (Test-Path "C:\Windows\System32\CodeIntegrity\CiPolicies\Active\{8F9CB695-5D48-48D6-A329-7202B44607E3}.cip") { Copy-Item "C:\Windows\System32\CodeIntegrity\CiPolicies\Active\{8F9CB695-5D48-48D6-A329-7202B44607E3}.cip" (New-Item -ItemType Directory -Force "C:\DriverPolicyBackup"); if ($?) { CiTool.exe --remove-policy "{8F9CB695-5D48-48D6-A329-7202B44607E3}" } } else { Write-Host "Windows Driver Policy is not installed. You can proceed with the driver installation." -ForegroundColor Green }
+```
+
+3. Restart your computer.
+
+A backup will be saved to C:\DriverPolicyBackup. Do not delete it — it is required to restore the policy.
+
+### Restore Policy
+
+1. Open PowerShell as Administrator:
+    1. Click the Start button.
+    2. Type PowerShell.
+    3. Right-click on the result.
+    4. Select `Run as administrator`.
+2. Enter the following command and press Enter:
+
+```powershell
+CiTool.exe --update-policy "C:\DriverPolicyBackup\{8F9CB695-5D48-48D6-A329-7202B44607E3}.cip"
+```
+
+3. Restart your computer.
 
 
 ## Quick installation
